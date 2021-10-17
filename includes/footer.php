@@ -1,6 +1,7 @@
 <footer>
     <nav>
-        <ul>Navegue pelo nosso site
+        <h6>Navegue pelo nosso site</h6>
+        <ul>
             <li><a href="">Página 1</a></li>
             <li><a href="">Página 2</a></li>
             <li><a href="">Página 3</a></li>

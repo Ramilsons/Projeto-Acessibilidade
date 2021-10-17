@@ -2,7 +2,7 @@
     <!-- Esse link deverá aparecer quando o usuário apertar tab pela primeira vez na página-->
     <a href="">Ir para o conteúdo principal</a>
 
-    <h6>Navegue pelo nosso site: </h6>
+    
     <nav>
         <ul>
             <li><a href="">Página 1</a></li>
@@ -15,6 +15,6 @@
 
     <!-- Botão de menu aparecerá apenas para tablet e mobile -->
     <button>
-        <img src="" href="" alt="Menu">
+        <img src="" alt="Menu">
     </button>
 </header>
