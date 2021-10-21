@@ -3,30 +3,11 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Design</title>
+    <title>Design | Seu site mais acessível</title>
 </head>
-<!-- Include do header ficará aqui -->
+
 <body>
-    <header>
-        <!-- Esse link deverá aparecer quando o usuário apertar tab pela primeira vez na página-->
-        <a href="">Ir para o conteúdo principal</a>
-    
-        <nav>
-            <ul>
-                <li><a href="">Página 1</a></li>
-                <li><a href="">Página 2</a></li>
-                <li><a href="">Página 3</a></li>
-                <li><a href="">Página 4</a></li>
-                <li><a href="">Página 5</a></li>
-            </ul>
-        </nav>
-    
-        <!-- Botão de menu aparecerá apenas para tablet e mobile -->
-        <button aria-label="Menu">
-            <img src="" alt="Menu">
-        </button>
-    </header>
-    <main>
+    <?php include './includes/header.php'; ?>    <main>
         <article>
             <div class="container">
                 <div class="row">
@@ -95,24 +76,8 @@
             </div>
         </article>
     </main>
-    <!-- Include do footer ficará aqui -->
-    <footer>
-        <nav>
-            <h6>Navegue pelo nosso site</h6>
-            <ul>
-                <li><a href="">Página 1</a></li>
-                <li><a href="">Página 2</a></li>
-                <li><a href="">Página 3</a></li>
-                <li><a href="">Página 4</a></li>
-                <li><a href="">Página 5</a></li>
-                <li><a href="">Página 6</a></li>
-                <li><a href="">Página 7</a></li>
-                <li><a href="">Página 8</a></li>
-                <li><a href="">Página 9</a></li>
-            </ul>
-        </nav>
-        <p>Lorem ipsum dolor sit amet.</p>
-    </footer>
+
+    <?php include './includes/footer.php'; ?>
 </body>
 
 </html>

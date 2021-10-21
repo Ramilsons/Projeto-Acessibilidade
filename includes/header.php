@@ -2,7 +2,6 @@
     <!-- Esse link deverá aparecer quando o usuário apertar tab pela primeira vez na página-->
     <a href="">Ir para o conteúdo principal</a>
 
-    
     <nav>
         <ul>
             <li><a href="">Página 1</a></li>

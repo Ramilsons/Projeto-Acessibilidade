@@ -5,28 +5,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-    <title>Tabelas</title>
+    <title>Tabelas | Seu site mais acessível</title>
 </head>
-<!-- Include do header ficará aqui -->
+
 <body>
-    <header>
-        <!-- Esse link deverá aparecer quando o usuário apertar tab pela primeira vez na página-->
-        <a href="">Ir para o conteúdo principal</a>
-        <nav>
-            <ul>
-                <li><a href="">Página 1</a></li>
-                <li><a href="">Página 2</a></li>
-                <li><a href="">Página 3</a></li>
-                <li><a href="">Página 4</a></li>
-                <li><a href="">Página 5</a></li>
-            </ul>
-        </nav>
-    
-        <!-- Botão de menu aparecerá apenas para tablet e mobile -->
-        <button aria-label="Menu">
-            <img src="" alt="Menu">
-        </button>
-    </header>
+    <?php include './includes/header.php'; ?>
     <main>
         <section> 
             <div class="jumbotron jumbotron-fluid">
@@ -69,24 +52,6 @@
         </article>
     </main>
 
-    <!-- Include do footer ficará aqui -->
-    <footer>
-        <nav>
-            <h6>Navegue pelo nosso site</h6>
-            <ul>
-                <li><a href="">Página 1</a></li>
-                <li><a href="">Página 2</a></li>
-                <li><a href="">Página 3</a></li>
-                <li><a href="">Página 4</a></li>
-                <li><a href="">Página 5</a></li>
-                <li><a href="">Página 6</a></li>
-                <li><a href="">Página 7</a></li>
-                <li><a href="">Página 8</a></li>
-                <li><a href="">Página 9</a></li>
-            </ul>
-        </nav>
-        <p>Lorem ipsum dolor sit amet.</p>
-    </footer>
+    <?php include './includes/footer.php'; ?>
 </body>
-
 </html>
