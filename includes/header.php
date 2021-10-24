@@ -13,7 +13,7 @@
     </nav>
 
     <!-- Botão de menu aparecerá apenas para tablet e mobile -->
-    <button>
+    <button aria-label="Exibir Menu>
         <img src="" alt="Menu">
     </button>
 </header>

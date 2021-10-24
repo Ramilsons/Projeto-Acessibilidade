@@ -6,59 +6,62 @@
 </head>
 <body>
     <?php include './includes/header.php'; ?>
-    <aside>
+    <main>
         <section>
-            <img src="" alt="">
+            <h2>Quem somos</h2>
+            <section>
+                <img src="" alt="">
 
-            <h4>Nome</h4>
-            <h4>Função</h4>
-            <h6>RA</h6>
+                <h4>Nome</h4>
+                <h4>Função</h4>
+                <h6>RA</h6>
+            </section>
+            <section>
+                <img src="" alt="">
+
+                <h4>Nome</h4>
+                <h4>Função</h4>
+                <h6>RA</h6>
+            </section>
+            <section>
+                <img src="" alt="">
+
+                <h4>Nome</h4>
+                <h4>Função</h4>
+                <h6>RA</h6>
+            </section>
+            <section>
+                <img src="" alt="">
+
+                <h4>Nome</h4>
+                <h4>Função</h4>
+                <h6>RA</h6>
+            </section>
         </section>
-        <section>
-            <img src="" alt="">
 
-            <h4>Nome</h4>
-            <h4>Função</h4>
-            <h6>RA</h6>
-        </section>
-        <section>
-            <img src="" alt="">
+        <article>
+            <h1>Dúvidas sobre Acessibilidade?</h1>
 
-            <h4>Nome</h4>
-            <h4>Função</h4>
-            <h6>RA</h6>
-        </section>
-        <section>
-            <img src="" alt="">
+            <form>
+                <label for="campo1">
+                    Campo 1: <span>*</span>
+                </label>
+                <input id="campo1" type="text" required>
 
-            <h4>Nome</h4>
-            <h4>Função</h4>
-            <h6>RA</h6>
-        </section>
-    </aside>
+                <label for="campo2">
+                    Campo 2: <span>*</span>
+                </label>
+                <input id="campo2" type="text" required>
 
-    <article>
-        <h1>Dúvidas sobre Acessibilidade?</h1>
+                <label for="campo3">
+                    Campo 3: <span>*</span>
+                </label>
+                <textarea id="campo3" required></textarea>
 
-        <form>
-            <label for="campo1">
-                Campo 1: <span>*</span>
-            </label>
-            <input id="campo1" type="text" required>
-
-            <label for="campo2">
-                Campo 2: <span>*</span>
-            </label>
-            <input id="campo2" type="text" required>
-
-            <label for="campo3">
-                Campo 3: <span>*</span>
-            </label>
-            <textarea id="campo3" required></textarea>
-
-            <button type="button">Enviar</button>
-        </form>
-    </article>
+                <button type="button">Enviar</button>
+            </form>
+        </article>
+    </main>
     <?php include './includes/footer.php'; ?>
 </body>
 </html>

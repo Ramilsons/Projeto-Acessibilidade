@@ -18,40 +18,35 @@
                 </div>
               </div>  
         </section>
-        <article>
-            <div class="row" id="div_tabela">
-                <a class="container text-center"> Qual dessas tabelas abaixo você considera mais acessível visualmente falando?</h2></a>
-                </div>
-                <section>
-                    <div class="row mt-5 mb-5" id="imgs_tabela">
-                        <div class="col-4">
-                            <img src="img/tabela1.jpg" class="img-fluid" alt="Quadrado">
-                        </div>
-                        <div class="col-4">
-                            <img src="img/tabela1.jpg" class="img-fluid" alt="Quadrado">
-                        </div>
-                        <div class="col-4">
-                            <img src="img/tabela1.jpg" class="img-fluid" alt="Quadrado ">
-                        </div>
+        <article>   
+            <section>
+                <h2> Qual dessas tabelas abaixo você considera mais acessível visualmente falando?</h2>
+                <div class="row mt-5 mb-5" id="imgs_tabela">
+                    <div class="col-4">
+                        <img src="img/tabela1.jpg" class="img-fluid" alt="Quadrado">
                     </div>
-                </section>
-                <div class="col-8">
-                <div class="row text-left">
-                    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis elit eros, pretium a elementum
-                        vitae, scelerisque ac augue. Curabitur at euismod eros. Vestibulum diam libero, posuere non
-                        luctus commodo, tincidunt nec lectus. Integer consectetur ipsum vel nunc fringilla, vel
-                        pulvinar est ullamcorper. Proin in nibh et mi accumsan imperdiet. Pellentesque et libero
-                        auctor, tempus arcu eget, venenatis massa. Phasellus eget lectus enim. Etiam dui lectus,
-                        tincidunt at sem ac, semper dapibus sapien. Sed dolor quam, rutrum in vestibulum non,
-                        ullamcorper quis sem. Integer ligula orci, convallis et placerat at, posuere nec dolor.
-                        Pellentesque porta gravida tortor non eleifend. Aenean gravida nisi vel tempus rhoncus.
-                        Proin orci justo, luctus vel nisl eget, porttitor vestibulum magna. Aliquam consectetur
-                        fringilla varius. Aliquam sed fringilla sem.</p>
+                    <div class="col-4">
+                        <img src="img/tabela1.jpg" class="img-fluid" alt="Quadrado">
+                    </div>
+                    <div class="col-4">
+                        <img src="img/tabela1.jpg" class="img-fluid" alt="Quadrado ">
+                    </div>
                 </div>
-            </div>
+            </section>
+            
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis elit eros, pretium a elementum
+            vitae, scelerisque ac augue. Curabitur at euismod eros. Vestibulum diam libero, posuere non
+            luctus commodo, tincidunt nec lectus. Integer consectetur ipsum vel nunc fringilla, vel
+            pulvinar est ullamcorper. Proin in nibh et mi accumsan imperdiet. Pellentesque et libero
+            auctor, tempus arcu eget, venenatis massa. Phasellus eget lectus enim. Etiam dui lectus,
+            tincidunt at sem ac, semper dapibus sapien. Sed dolor quam, rutrum in vestibulum non,
+            ullamcorper quis sem. Integer ligula orci, convallis et placerat at, posuere nec dolor.
+            Pellentesque porta gravida tortor non eleifend. Aenean gravida nisi vel tempus rhoncus.
+            Proin orci justo, luctus vel nisl eget, porttitor vestibulum magna. Aliquam consectetur
+            fringilla varius. Aliquam sed fringilla sem.</p>
+
         </article>
     </main>
-
     <?php include './includes/footer.php'; ?>
 </body>
 </html>
