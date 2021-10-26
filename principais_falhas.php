@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <title>Principais Falhas | Seu site mais acessível</title>
 </head>
+
 <body>
     <?php include './includes/header.php'; ?>
     <main>
-        <article> 
+        <article>
             <div class="row">
                 <div class="col-6">
                     <img src="" alt="..." class="img-fluid">
@@ -17,7 +19,7 @@
                     <h3>--Data correspondente--</h3>
                 </div>
             </div>
-            
+
             <h2>1.Título</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis elit eros, pretium a elementum
                 vitae, scelerisque ac augue. Curabitur at euismod eros. Vestibulum diam libero, posuere non
@@ -30,8 +32,8 @@
                 Proin orci justo, luctus vel nisl eget, porttitor vestibulum magna. Aliquam consectetur
                 fringilla varius. Aliquam sed fringilla sem.</p>
 
-            <hr>          
-            
+            <hr>
+
             <h2>2.Título</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis elit eros, pretium a elementum
                 vitae, scelerisque ac augue. Curabitur at euismod eros. Vestibulum diam libero, posuere non
@@ -46,6 +48,7 @@
         </article>
     </main>
 
-    <?php include './includes/footer.php'; ?>   
+    <?php include './includes/footer.php'; ?>
 </body>
+
 </html>

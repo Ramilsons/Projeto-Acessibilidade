@@ -1,47 +1,16 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <title>Home | Seu site mais acessível</title>
 </head>
+
 <body>
     <?php include './includes/header.php'; ?>
     <main>
-        <section>
-            <h2>Quem somos</h2>
-            <section>
-                <img src="" alt="">
-
-                <h4>Nome</h4>
-                <h4>Função</h4>
-                <h6>RA</h6>
-            </section>
-            <section>
-                <img src="" alt="">
-
-                <h4>Nome</h4>
-                <h4>Função</h4>
-                <h6>RA</h6>
-            </section>
-            <section>
-                <img src="" alt="">
-
-                <h4>Nome</h4>
-                <h4>Função</h4>
-                <h6>RA</h6>
-            </section>
-            <section>
-                <img src="" alt="">
-
-                <h4>Nome</h4>
-                <h4>Função</h4>
-                <h6>RA</h6>
-            </section>
-        </section>
-
         <article>
             <h1>Dúvidas sobre Acessibilidade?</h1>
-
             <form>
                 <label for="campo1">
                     Campo 1: <span>*</span>
@@ -61,7 +30,43 @@
                 <button type="button">Enviar</button>
             </form>
         </article>
+        <section>
+            <div class="container">
+                <div class="row">
+                    <h2>Quem somos</h2>
+                </div>
+                <div class="row">
+                    <img src="" alt="">
+
+                    <h4>Nome</h4>
+                    <h4>Função</h4>
+                    <h6>RA</h6>
+                </div>
+                <div class="row">
+                    <img src="" alt="">
+
+                    <h4>Nome</h4>
+                    <h4>Função</h4>
+                    <h6>RA</h6>
+                </div>
+                <div class="row">
+                    <img src="" alt="">
+
+                    <h4>Nome</h4>
+                    <h4>Função</h4>
+                    <h6>RA</h6>
+                </div>
+                <div class="row">
+                    <img src="" alt="">
+
+                    <h4>Nome</h4>
+                    <h4>Função</h4>
+                    <h6>RA</h6>
+                </div>
+            </div>
+        </section>
     </main>
     <?php include './includes/footer.php'; ?>
 </body>
+
 </html>
