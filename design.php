@@ -4,6 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <?php include './includes/bootstrap-css.php'; ?>
+    <link rel="stylesheet" href="css/design.css">
     <title>Design | Seu site mais acessível</title>
 </head>
 
@@ -14,12 +15,16 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-6">
-                            <h3>Forma Correta</h3>
-                            <img src="" alt="..." class="img-fluid">
+                            <h3 class="titulo_forma">Forma Correta</h3>
+                            <div class="div_imagem_forma">
+                                <!-- <img src="img/adesivo-paisagem-praia-decorando-com-adesivos.jpg" width="300px" height="300px" alt="..." class="img-fluid"> -->
+                            </div>
+
+                            <h4 class="subtitulo">Subtitulo</h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis elit eros, pretium a elementum
                                 vitae, scelerisque ac augue. Curabitur at euismod eros. Vestibulum diam libero, posuere non
                                 luctus commodo, tincidunt nec lectus. Integer consectetur ipsum vel nunc fringilla, vel
-                                pulvinar est ullamcorper. Proin in nibh et mi accumsan imperdiet. Pellentesque et libero
+                                pulvinar esclass="subtitulo"t ullamcorper. Proin in nibh et mi accumsan imperdiet. Pellentesque et libero
                                 auctor, tempus arcu eget, venenatis massa. Phasellus eget lectus enim. Etiam dui lectus,
                                 tincidunt at sem ac, semper dapibus sapien. Sed dolor quam, rutrum in vestibulum non,
                                 ullamcorper quis sem. Integer ligula orci, convallis et placerat at, posuere nec dolor.
@@ -27,8 +32,10 @@
                                 Proin orci justo, luctus vel nisl eget, porttitor vestibulum magna. Aliquam consectetur
                                 fringilla varius. Aliquam sed fringilla sem. </p>
 
-                            <div>
-                                <a href="">Button</a>
+                            <div class="row explicacao">
+                                <div class="row botao_explicacao">
+                                    <a href="">Button</a>
+                                </div>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis elit eros, pretium a
                                     elementum vitae, scelerisque ac augue. Curabitur at euismod eros. Vestibulum diam
                                     libero, posuere non luctus commodo, tincidunt nec lectus. Integer consectetur ipsum vel
@@ -45,8 +52,11 @@
 
                         </div>
                         <div class="col-6">
-                            <h3>Forma errada</h3>
-                            <img src="" alt="..." class="img-fluid">
+                            <h3 class="titulo_forma">Forma errada</h3>
+                            <div class="div_imagem_forma">
+                                <!-- <img src="img/adesivo-paisagem-praia-decorando-com-adesivos.jpg" width="300px" height="300px" alt="..." class="img-fluid"> -->
+                            </div>
+                            <h4 class="subtitulo">Subtitulo</h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis elit eros, pretium a elementum
                                 vitae, scelerisque ac augue. Curabitur at euismod eros. Vestibulum diam libero, posuere non
                                 luctus commodo, tincidunt nec lectus. Integer consectetur ipsum vel nunc fringilla, vel
@@ -58,8 +68,10 @@
                                 Proin orci justo, luctus vel nisl eget, porttitor vestibulum magna. Aliquam consectetur
                                 fringilla varius. Aliquam sed fringilla sem. </p>
 
-                            <div>
-                                <a href="">Button</a>
+                            <div class="row explicacao">
+                                <div class="row botao_explicacao">
+                                    <a href="">Button</a>
+                                </div>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis elit eros, pretium a
                                     elementum vitae, scelerisque ac augue. Curabitur at euismod eros. Vestibulum diam
                                     libero, posuere non luctus commodo, tincidunt nec lectus. Integer consectetur ipsum vel

@@ -2,6 +2,7 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
+    <?php include './includes/bootstrap-css.php'; ?>
     <title>Home | Seu site mais acessível</title>
 </head>
 <body>
