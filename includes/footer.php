@@ -15,3 +15,4 @@
     </nav>
     <p>Lorem ipsum dolor sit amet.</p>
 </footer>
+<script src="js/bootstrap.bundle.min.js"></script>

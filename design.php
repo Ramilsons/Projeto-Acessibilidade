@@ -3,6 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
+    <?php include './includes/bootstrap-css.php'; ?>
     <title>Design | Seu site mais acessível</title>
 </head>
 
