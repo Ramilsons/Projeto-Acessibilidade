@@ -8,9 +8,10 @@
 <body>
     <?php include './includes/header.php'; ?>
 
-    <main>
-        <article>
-            <img src="" alt="">
+    <main class="position-relative">
+        <img class="ms-0" src="" alt="">
+
+        <article class="ms-auto col-12 col-md-8">
 
             <hgroup>
                 <h1>Lorem Ipsum</h1>
@@ -18,7 +19,7 @@
             </hgroup>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores magnam, nostrum impedit facere sed laboriosam sit quod, harum dicta, enim perspiciatis? Sequi unde repellat accusamus maiores quo, minus fugit excepturi.</p>
             <section>
-                <button aria-label="Copiar código">
+                <button class="d-block ms-auto" aria-label="Copiar código">
                     <img src="" alt="">
                 </button>
 
@@ -30,7 +31,7 @@
 
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores magnam, nostrum impedit facere sed laboriosam sit quod, harum dicta, enim perspiciatis? Sequi unde repellat accusamus maiores quo, minus fugit excepturi.</p>
             <section>
-                <button aria-label="Copiar código">
+                <button class="d-block ms-auto" aria-label="Copiar código">
                     <img src="" alt="">
                 </button>
 
@@ -40,10 +41,11 @@
             </section>
             <img src="" alt="">
         </article>
-        <section>
-            <button aria-label="Fechar">X</button>
-            <h3>Tópicos</h3>
-    
+        <section class="position-absolute top-0 start-0 pt-4">
+            <div class="row">
+                <h3 class="col-9">Tópicos</h3>
+                <button class="col-2 ms-auto invisible" aria-label="Fechar">X</button>
+            </div>
             <nav>
                 <ul>
                     <li><a href="#">Lorem Ipsum</a></li>
