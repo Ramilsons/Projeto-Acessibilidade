@@ -9,11 +9,11 @@
 
     <nav id="navbarSupportedContent">
         <ul class="nav d-flex justify-content-center row">
-            <li class="nav-item col-12 col-sm-2"><a class="nav-link active" aria-current="page" href="">Página 1</a></li>
-            <li class="nav-item col-12 col-sm-2"><a class="nav-link" href="">Página 2</a></li>
-            <li class="nav-item col-12 col-sm-2"><a class="nav-link" href="">Página 3</a></li>
-            <li class="nav-item col-12 col-sm-2"><a class="nav-link" href="">Página 4</a></li>
-            <li class="nav-item col-12 col-sm-2"><a class="nav-link" href="">Página 5</a></li>
+            <li class="nav-item col-12 col-sm-2"><a class="nav-link active" aria-current="page" href="index.php">Página 1</a></li>
+            <li class="nav-item col-12 col-sm-2"><a class="nav-link" href="design.php">Página 2</a></li>
+            <li class="nav-item col-12 col-sm-2"><a class="nav-link" href="principais_falhas.php">Página 3</a></li>
+            <li class="nav-item col-12 col-sm-2"><a class="nav-link" href="contato.php">Página 4</a></li>
+            <li class="nav-item col-12 col-sm-2"><a class="nav-link" href="menu.php">Página 5</a></li>
         </ul>
     </nav>
 </header>
