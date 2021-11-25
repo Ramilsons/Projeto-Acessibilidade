@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <?php include './includes/bootstrap-css.php'; ?>
+
     <title>Checagem | Seu site mais acessível</title>
 </head>
 
@@ -61,7 +62,10 @@
             <label for="check3">Check 3</label>
         </aside>
     </main>
+
     <?php include './includes/footer.php'; ?>
+
+    
 </body>
 
 </html>

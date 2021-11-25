@@ -2,7 +2,6 @@
 <html lang="pt-br">
 
 <head>
-    <meta charset="UTF-8">
     <?php include './includes/bootstrap-css.php'; ?>
     <title>Formulários | Seu site mais acessível</title>
 </head>
@@ -21,21 +20,23 @@
             lobortis vel dolor. Curabitur nulla eros, venenatis a nisl a, porta fringilla diam. Duis ultricies vehicula
             nisl a efficitur. Integer nibh felis, malesuada sit amet erat ut, lobortis ultrices ipsum. Praesent mattis
             eros metus, eu aliquet augue scelerisque sed.</p>
+    </article>
 
+    <main>  
         <h2>Exemplo:</h2>
-        <img src="" alt="">
+        <img src="img/form-acessivel.png" alt="Exemplo de um código para um formulário Acessível">
 
         <form action method="post">
             <div>
-                <label for="nome">Nome:</label>
+                <label for="nome">Preencha com seu Nome:</label>
                 <input type="text" id="nome" />
             </div>
             <div>
-                <label for="email">E-mail:</label>
+                <label for="email">Preencha com seu E-mail:</label>
                 <input type="email" id="email" />
             </div>
             <div>
-                <label for="msg">Mensagem:</label>
+                <label for="msg">Deixe a sua Mensagem:</label>
                 <textarea id="msg"></textarea>
             </div>
         </form>
@@ -49,7 +50,9 @@
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab neque dolores, nam omnis eos dolor consequuntur ad aut veritatis dignissimos minus alias dolorem! Nobis ipsum placeat, modi expedita commodi debitis?
             </code>
         </section>
+    </main>
 
+    <section>
 
         <h2>Tags para a construção de um Formulário</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id lacinia massa, vel sodales mi. Morbi
@@ -62,7 +65,9 @@
             nisl a efficitur. Integer nibh felis, malesuada sit amet erat ut, lobortis ultrices ipsum. Praesent mattis
             eros metus, eu aliquet augue scelerisque sed.</p>
 
+    </section>
 
+    <section>
 
         <h3>Utilização da Label</h3 >
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id lacinia massa, vel sodales mi. Morbi
@@ -75,7 +80,7 @@
             nisl a efficitur. Integer nibh felis, malesuada sit amet erat ut, lobortis ultrices ipsum. Praesent mattis
             eros metus, eu aliquet augue scelerisque sed.</p>
 
-    </article>
+    </section>
 
     <?php include './includes/footer.php'; ?>
 </body>
