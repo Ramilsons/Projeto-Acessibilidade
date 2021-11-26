@@ -2,7 +2,7 @@
     <!-- Esse link deverá aparecer quando o usuário apertar tab pela primeira vez na página-->
     <a href="" class="visually-hidden-focusable">Ir para o conteúdo principal</a>
     
-    <nav class="navbar navbar-expand-lg navbar-light">
+        <nav class="navbar navbar-expand-lg navbar-light">
         <div class="container-fluid">
             <!-- Botão de menu aparecerá apenas para tablet e mobile -->
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -11,19 +11,19 @@
             <div class="collapse navbar-collapse justify-content-lg-center" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item ps-lg-3">
-                        <a class="nav-link active" href="#">Página 1</a>
+                        <a class="nav-link active" href="index.php">Home</a>
                     </li>
                     <li class="nav-item ps-lg-3">
-                        <a class="nav-link" href="#">Página 2</a>
+                        <a class="nav-link" href="design.php">Design</a>
                     </li>
                     <li class="nav-item ps-lg-3">
-                        <a class="nav-link" href="#">Página 3</a>
+                        <a class="nav-link" href="principais_falhas.php">Principais Falhas</a>
                     </li>
                     <li class="nav-item ps-lg-3">
-                        <a class="nav-link" href="#">Página 4</a>
+                        <a class="nav-link" href="contato.php">Contato</a>
                     </li>
                     <li class="nav-item ps-lg-3">
-                        <a class="nav-link" href="#">Página 5</a>
+                        <a class="nav-link" href="menu.php">Menus</a>
                     </li>
                 </ul>
             </div>
