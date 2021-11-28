@@ -11,8 +11,8 @@
     <section class="banner container">
         <div class="row">
             <div class="col-12 col-sm-6 ">
-                <h1>Lorem ipsum dolor sit amet.</h1>
-                <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut tincidun</h3>
+                <h1>Seu site mais acessível.</h1>
+                <h3>Desde a semântica até o design mais recomendado de cada componente</h3>
 
                 <div class="row">
                     <button class="col-7 col-sm-2">conceitos</button>
