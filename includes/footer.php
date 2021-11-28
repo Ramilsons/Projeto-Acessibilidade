@@ -3,16 +3,16 @@
     <nav>
         <h5>Navegue pelo nosso site</h5>
         <ul class="row">
-            <li class="col-6 col-md-3"><a href="">Página 1</a></li>
-            <li class="col-6 col-md-3"><a href="">Página 2</a></li>
-            <li class="col-6 col-md-3"><a href="">Página 3</a></li>
-            <li class="col-6 col-md-3"><a href="">Página 4</a></li>
-            <li class="col-6 col-md-3"><a href="">Página 5</a></li>
-            <li class="col-6 col-md-3"><a href="">Página 6</a></li>
-            <li class="col-6 col-md-3"><a href="">Página 7</a></li>
-            <li class="col-6 col-md-3"><a href="">Página 8</a></li>
-            <li class="col-6 col-md-3"><a href="">Página 9</a></li>
+            <li class="col-6 col-md-3"><a href="index.php">Home</a></li>
+            <li class="col-6 col-md-3"><a href="contato.php">Contato</a></li>
+            <li class="col-6 col-md-3"><a href="design.php">Design</a></li>
+            <li class="col-6 col-md-3"><a href="menu.php">Menu</a></li>
+            <li class="col-6 col-md-3"><a href="checagem.php">Checagem</a></li>
+            <li class="col-6 col-md-3"><a href="principais_falhas.php">Principais Falhas</a></li>
+            <li class="col-6 col-md-3"><a href="formulario.php">Formulario</a></li>
+            <li class="col-6 col-md-3"><a href="imagem.php">Imagem</a></li>
+            <li class="col-6 col-md-3"><a href="tabelas.php">Tabelas</a></li>
         </ul>
     </nav>
-    <p class="text-center">Lorem ipsum dolor sit amet.</p>
+    <p class="text-center">Todos os direitos reservados ao grupo Sapitos Bailantes.</p>
 </footer>

@@ -6,7 +6,7 @@
         <div class="container-fluid">
             <!-- Botão de menu aparecerá apenas para tablet e mobile -->
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <img src="" alt="Menu">
+                <img src="./img/menu.svg" alt="Menu">
             </button>
             <div class="collapse navbar-collapse justify-content-lg-center" id="navbarNav">
                 <ul class="navbar-nav">
