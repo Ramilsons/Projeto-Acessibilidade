@@ -24,17 +24,4 @@
     margin-right: 15px;
 }
 
-.explicacao .botao_explicacao
-{
-    display: flex;
-    flex-direction: row;
-    justify-content: right;
-}
-.explicacao .botao_explicacao a
-{
-    width: 20%;
-    text-align: center;
-    text-decoration: none;
-    text-transform: normal;
-    border: 2px solid #000;
-}
+

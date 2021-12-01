@@ -24,32 +24,13 @@
 
                 <div class="row">
                     <div class="col-6">
-                        <h2>2.Título</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis elit eros, pretium a elementum
-                            vitae, scelerisque ac augue. Curabitur at euismod eros. Vestibulum diam libero, posuere non
-                            luctus commodo, tincidunt nec lectus. Integer consectetur ipsum vel nunc fringilla, vel
-                            pulvinar est ullamcorper. Proin in nibh et mi accumsan imperdiet. Pellentesque et libero
-                            auctor, tempus arcu eget, venenatis massa. Phasellus eget lectus enim. Etiam dui lectus,
-                            tincidunt at sem ac, semper dapibus sapien. Sed dolor quam, rutrum in vestibulum non,
-                            ullamcorper quis sem. Integer ligula orci, convallis et placerat at, posuere nec dolor.
-                            Pellentesque porta gravida tortor non eleifend. Aenean gravida nisi vel tempus rhoncus.
-                            Proin orci justo, luctus vel nisl eget, porttitor vestibulum magna. Aliquam consectetur
-                            fringilla varius. Aliquam sed fringilla sem.</p>
-
+                        <h2>Imagens acessíveis</h2>
+                        <p>As imagens são acessadas por pessoas com deficiência visual (cegas ou de baixa visão) através de leitores de tela que identificam os textos alternativos e retornam o conteúdo em forma de áudio para o usuário. Se esses textos não existem ou estão incompreensíveis, o usuário pode não entender o contexto ou o significado daquela imagem.</p>
                     </div>
                     <hr>
                     <div class="col-6">
-                        <h2>1.Título</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis elit eros, pretium a elementum
-                            vitae, scelerisque ac augue. Curabitur at euismod eros. Vestibulum diam libero, posuere non
-                            luctus commodo, tincidunt nec lectus. Integer consectetur ipsum vel nunc fringilla, vel
-                            pulvinar est ullamcorper. Proin in nibh et mi accumsan imperdiet. Pellentesque et libero
-                            auctor, tempus arcu eget, venenatis massa. Phasellus eget lectus enim. Etiam dui lectus,
-                            tincidunt at sem ac, semper dapibus sapien. Sed dolor quam, rutrum in vestibulum non,
-                            ullamcorper quis sem. Integer ligula orci, convallis et placerat at, posuere nec dolor.
-                            Pellentesque porta gravida tortor non eleifend. Aenean gravida nisi vel tempus rhoncus.
-                            Proin orci justo, luctus vel nisl eget, porttitor vestibulum magna. Aliquam consectetur
-                            fringilla varius. Aliquam sed fringilla sem.</p>
+                        <h2>Navegação por teclado</h2>
+                        <p>A mais importante ferramenta para a navegação é permitir que o usuário consiga identificar onde está o foco da ação. Ao identificar o foco, ele consegue saber quais são os itens interativos da página e navegar normalmente. Se esse foco não está visível, o usuário se perde na navegação. O ideal é que o foco esteja visível não somente quando se passa o mouse, mas quando se faz o foco por teclado. </p>
                     </div>
                 </div>
             </div>
