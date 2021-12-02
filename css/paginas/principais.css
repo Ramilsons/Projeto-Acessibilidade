@@ -1,0 +1,27 @@
+/* .falhas1
+{
+    margin-left: -150px;
+} */
+.titulo
+{
+    margin-top: 200px;
+}
+
+.conteudo
+{
+    width: 600px;
+    margin: 20px auto 40px auto;
+}
+
+.linha
+{
+    width: 500px;
+    margin: 0px auto 0px auto;
+}
+
+hr 
+{ 
+    background-color: black; 
+    border: 0; 
+    width: 200px;
+}
