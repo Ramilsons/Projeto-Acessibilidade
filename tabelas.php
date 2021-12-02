@@ -25,7 +25,7 @@
                 </div>
                 <div class="row mt-5 mb-5 " id="imgs_tabela">
                     <div class="col-12">
-                        <img src="./img/tabela02.png" class="img-fluid" alt="Tabela acessível">
+                        <img src="./img/tabela/tabela02.png" class="img-fluid" alt="Tabela acessível">
                     </div>
                     </div>
             </section>
@@ -47,7 +47,7 @@ Na linha do cabeçalho, o valor col para o escopo associa cada célula do cabeç
 </p>
 <div class="row mt-5 mb-5" id="imgs_tabela"> 
 <div class="col-12">
-                        <img src="./img/tabela01.png" class="img-fluid" alt="tabela">
+                        <img src="./img/tabela/tabela01.png" class="img-fluid" alt="tabela">
                     </div>
                     </div>
                     </section>
