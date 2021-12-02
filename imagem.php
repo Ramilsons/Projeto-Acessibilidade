@@ -40,7 +40,7 @@ Em algumas situações, uma descrição literal detalhada pode ser necessária, 
 Exemplo 01:<p/>
 <div class="row mt-5 mb-5" id="img01"> 
 <div class="col-12">
-<img src="./img/imagem/tampa.jpg" class="img-fluid" alt="Empurre a tampa para baixo e gire no sentido anti-horário (da direita para a esquerda)" />
+<img src="./img/imagem/tampa.webp" class="img-fluid" alt="Empurre a tampa para baixo e gire no sentido anti-horário (da direita para a esquerda)" />
                     </div>
                     </div>
   <p> Este diagrama simples ilustra uma direção anti-horária para desparafusar a tampa ou tampa de uma garrafa. As informações podem ser descritas em uma frase curta, de modo que a alternativa em texto “Empurre a tampa para baixo e gire no sentido anti-horário (da direita para a esquerda)” é fornecida no atributo alt.
@@ -59,7 +59,7 @@ Exemplo 01:<p/>
 
 <div class="row mt-5 mb-5" id=id="img02"> 
 <div class="col-12">
-                        <img src="./img/imagem/familia.jpg" class="img-fluid" alt="Somos amigos da família"/>
+                        <img src="./img/imagem/familia.webp" class="img-fluid" alt="Somos amigos da família"/>
                     </div>
                     </div>
   <p>Esta fotografia mostra um grupo familiar feliz. Ele está sendo usado para dar a impressão de que o site ou a empresa que representa é familiar. A alternativa em texto é “Somos amigos da família”, pois é a que melhor descreve a impressão pretendida. </p>
@@ -93,7 +93,7 @@ Ilustrativo do texto adjacente, mas não contribuindo com informações (“col�
 Identificado e descrito pelo texto circundante.</p>
 <div class="row mt-5 mb-5" id="img03"> 
 <div class="col-12">
-                        <img src="./img/imagem/barra.png" class="img-fluid" alt="imagem decorativa">
+                        <img src="./img/imagem/barra.webp" class="img-fluid" alt="imagem decorativa">
                     </div>
                     </div>
 
@@ -118,7 +118,7 @@ Identificado e descrito pelo texto circundante.</p>
      <p>Imagens funcionais são usadas para iniciar ações em vez de transmitir informações. Eles são usados ​​em botões, links e outros elementos interativos. A alternativa em texto para a imagem deve transmitir a ação que será iniciada (o propósito da imagem), ao invés de uma descrição da imagem. Por exemplo, a alternativa em texto deve ser “imprimir esta página” em vez de “(imagem de uma) impressora”.</p>
       <div class="row mt-5 mb-5" id="img04"> 
 <div class="col-12">
-                        <img src="./img/imagem/impressora.png" class="img-fluid" alt="impressora"/>
+                        <img src="./img/imagem/impressora.webp" class="img-fluid" alt="impressora"/>
                     </div>
                     </div>
       <section class="copy-code">
@@ -150,7 +150,7 @@ Também é uma boa prática referir-se e resumir imagens mais complexas do texto
 Exemplo: um link de texto para a longa descrição adjacente à imagem.</p>
 <div class="row mt-5 mb-5" id="img05"> 
 <div class="col-12">
-                        <img src="./img/imagem/grafico.png" class="img-fluid" alt="grafico"/>
+                        <img src="./img/imagem/grafico.webp" class="img-fluid" alt="grafico"/>
                     </div>
                     </div>
       <section class="copy-code">
@@ -164,7 +164,7 @@ Exemplo: um link de texto para a longa descrição adjacente à imagem.</p>
 		src="chart.png"
 		alt="Bar chart showing monthly and total visitors for the first quarter 2014 for sites 1 to 3"&gt;&lt;br&gt;
                     &lt;a href="2014-first-qtr.html"&gt;&lt;Example.com Site visitors Jan to March 2014 text description of the bar chart&gt;/a&lt;/p&gt;
-                    &lt;/p&gt;
+                  
             </code>
                 </div>
                 </section>

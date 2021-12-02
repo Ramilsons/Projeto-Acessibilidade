@@ -25,12 +25,12 @@
                 </div>
                 <div class="row mt-5 mb-5 " id="imgs_tabela">
                     <div class="col-12">
-                        <img src="./img/tabela/tabela02.png" class="img-fluid" alt="Tabela acessível">
+                        <img src="./img/tabela/tabela2.webp" class="img-fluid" alt="Tabela acessível">
                     </div>
                     </div>
             </section>
             <section>
-            <div class="row" id="Texto tabela">
+            <div class="container text-left" id="Texto tabela">
             <p class="p1">
             As tabelas de dados são usadas para organizar dados com um relacionamento lógico em grades. As tabelas acessíveis precisam de marcação HTML que indica células de cabeçalho e células de dados e define seu relacionamento. As tecnologias assistivas usam essas informações para fornecer contexto aos usuários.
 
@@ -47,7 +47,7 @@ Na linha do cabeçalho, o valor col para o escopo associa cada célula do cabeç
 </p>
 <div class="row mt-5 mb-5" id="imgs_tabela"> 
 <div class="col-12">
-                        <img src="./img/tabela/tabela01.png" class="img-fluid" alt="tabela">
+                        <img src="./img/tabela/tabela01.webp" class="img-fluid" alt="tabela">
                     </div>
                     </div>
                     </section>
