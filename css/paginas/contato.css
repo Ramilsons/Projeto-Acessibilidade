@@ -1,0 +1,51 @@
+.funcao
+{
+    margin-top: -10px;
+}
+.tituloDuvida
+{
+    margin-bottom: 80px;
+    color: #fff;
+}
+.form_contato
+{
+    background-color: #3C526C;
+    padding: 20px;
+    border-radius: 20px;
+}
+label
+{
+    color: #fff;
+}
+input, textarea
+{
+    border: 2px solid #fff !important;
+    background-color: #3C526C !important;
+}
+
+textarea:focus, input:focus {
+    box-shadow: 0 0 0 0 !important;
+    outline: 0 !important;
+}
+
+.btn_div
+{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.btn
+{
+    color:#000;
+    background-color: #FFDA7F;
+    width: 200px;
+}
+.btn:hover
+{
+    background-color: #FFDA7F;
+}
+
+textarea:focus, input:focus, .btn:focus {
+    box-shadow: 0 0 0 0 !important;
+    outline: 0 !important;
+}
