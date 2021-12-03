@@ -1,6 +1,6 @@
 <header>
     <!-- Esse link deverá aparecer quando o usuário apertar tab pela primeira vez na página-->
-    <a href="" class="visually-hidden-focusable">Ir para o conteúdo principal</a>
+    <a href="#principal" class="visually-hidden-focusable">Ir para o conteúdo principal</a>
     
         <nav class="navbar navbar-expand-lg navbar-light">
         <div class="container-fluid">
@@ -8,22 +8,22 @@
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <img src="./img/menu.svg" alt="Menu">
             </button>
-            <div class="collapse navbar-collapse justify-content-lg-center" id="navbarNav">
+            <div class="collapse navbar-collapse justify-content-lg-center " id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item ps-lg-3">
-                        <a class="nav-link active" href="index.php">Home</a>
+                        <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'index.php') ? "active" : ''; ?>" href="index.php">Home</a>
                     </li>
                     <li class="nav-item ps-lg-3">
-                        <a class="nav-link" href="design.php">Design</a>
+                        <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'design.php') ? "active" : ''; ?>" href="design.php">Design</a>
                     </li>
                     <li class="nav-item ps-lg-3">
-                        <a class="nav-link" href="principais_falhas.php">Principais Falhas</a>
+                        <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'principais_falhas.php') ? "active" : ''; ?>" href="principais_falhas.php">Principais Falhas</a>
                     </li>
                     <li class="nav-item ps-lg-3">
-                        <a class="nav-link" href="contato.php">Contato</a>
+                        <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'contato.php') ? "active" : ''; ?>" href="contato.php">Contato</a>
                     </li>
                     <li class="nav-item ps-lg-3">
-                        <a class="nav-link" href="menu.php">Menus</a>
+                        <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'menu.php') ? "active" : ''; ?>" href="menu.php">Menus</a>
                     </li>
                 </ul>
             </div>

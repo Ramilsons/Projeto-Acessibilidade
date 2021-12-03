@@ -11,7 +11,7 @@
     <img src="img/form/banner_form.png" alt="imagem de um formulario sendo preenchido com um lapis">
 
     <article>
-        <h1>Trabalhando com Formulários Acessíveis</h1>
+        <h1 id="principal">Trabalhando com Formulários Acessíveis</h1>
         
         <p>O uso de Formulários é a forma mais simples, e a mais comum, para a prestação de
         serviços interativos. Também costuma ser o primeiro obstáculo sério na implementação da

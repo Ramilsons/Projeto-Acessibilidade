@@ -12,7 +12,7 @@
     <main>
         <article>
             <section>
-                <h1>Metodos de Checagem</h1>
+                <h1 id="principal">Metodos de Checagem</h1>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id lacinia massa, vel sodales mi. Morbi
                     placerat dolor nec leo tempus dapibus. Mauris urna dui, molestie vel vehicula et, commodo vel magna. Etiam
                     eget nisl a tortor molestie facilisis sed ac tellus. Quisque nec interdum elit, at volutpat elit. Proin

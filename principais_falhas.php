@@ -18,9 +18,7 @@
                         <img src="img/principais falhas/principais1.jpg" alt="..." class="img-fluid">
                     </div>
                     <div class="col-6 titulo">
-                        <h1>Principais</h1>
-                        <h1>Falhas</h1>
-                        <!-- <h2>Data Correspondente</h2> -->
+                        <h1 id="principal">Principais Falhas</h1>
                     </div>
                 </div>
 

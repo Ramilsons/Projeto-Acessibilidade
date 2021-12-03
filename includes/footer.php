@@ -1,18 +1,29 @@
 <script src="js/bootstrap.bundle.min.js"></script>
-<footer class="container">
-    <nav>
+<footer>
+    <nav  class="container">
         <h5>Navegue pelo nosso site</h5>
         <ul class="row">
-            <li class="col-6 col-md-3"><a href="index.php">Home</a></li>
-            <li class="col-6 col-md-3"><a href="contato.php">Contato</a></li>
-            <li class="col-6 col-md-3"><a href="design.php">Design</a></li>
-            <li class="col-6 col-md-3"><a href="menu.php">Menu</a></li>
-            <li class="col-6 col-md-3"><a href="checagem.php">Checagem</a></li>
-            <li class="col-6 col-md-3"><a href="principais_falhas.php">Principais Falhas</a></li>
-            <li class="col-6 col-md-3"><a href="formulario.php">Formulario</a></li>
-            <li class="col-6 col-md-3"><a href="imagem.php">Imagem</a></li>
-            <li class="col-6 col-md-3"><a href="tabelas.php">Tabelas</a></li>
+            <div class="col-12 col-md-3">
+                <li><a href="index.php">Home</a></li>
+                <li><a href="contato.php">Contato</a></li>
+                <li><a href="design.php">Design</a></li>
+            </div>
+            <div class="col-12 col-md-3">
+                <li><a href="menu.php">Menu</a></li>
+                <li><a href="checagem.php">Checagem</a></li>
+            </div>
+            <div class="col-12 col-md-3">
+                <li><a href="principais_falhas.php">Principais Falhas</a></li>
+                <li><a href="formulario.php">Formulario</a></li>
+            </div>
+            <div class="col-12 col-md-3">
+                <li><a href="imagem.php">Imagem</a></li>
+                <li><a href="tabelas.php">Tabelas</a></li>
+            </div>
         </ul>
     </nav>
     <p class="text-center">Todos os direitos reservados ao grupo Sapitos Bailantes.</p>
+    <button class="topo" aria-label="Voltar ao topo">
+        <img src="./img/ao-topo.png" alt="Seta na cor preta apontando para cima, simbolizando voltar ao topo da página">
+    </button>
 </footer>

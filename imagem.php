@@ -16,7 +16,7 @@
         <section> 
            <div class="jumbotron jumbotron-fluid">
             <div class="container text-center">
-              <h1 class="display-4">Trabalhando com Imagens </h1>
+              <h1 class="display-4" id="principal">Trabalhando com Imagens </h1>
               </div>
               </div>
               <div class="container text-left">

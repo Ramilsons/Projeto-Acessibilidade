@@ -15,7 +15,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-6 mt-5 mb-5">
-                        <h2>Quem somos</h2>
+                        <h2 id="principal">Quem somos</h2>
                         <div class="card mt-5" style="max-width: 450px;">
                             <div class="row g-0">
                                 <div class="col-md-4">
@@ -79,7 +79,7 @@
                         <form>
                             <div class="mb-3">
                                 <label for="exampleInputEmail1" class="form-label">Email </label>
-                                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="campo de texto para inserir o email">
                             </div>
                             <div class="mb-3">
                                 <label for="exampleInputname1" class="form-label">Nome</label>

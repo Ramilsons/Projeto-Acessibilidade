@@ -14,7 +14,7 @@
         <article class="ms-auto col-12 col-md-8">
 
             <hgroup>
-                <h1>Construa um Menu acessível para seu site</h1>
+                <h1 id="principal">Construa um Menu acessível para seu site</h1>
                 <h2 id="introducao">Introdução</h2>
             </hgroup>
             <p>Os menus são um conjunto de links que tem por finalidade levar o usuário de uma página para outra página.</p>

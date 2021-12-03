@@ -1,6 +1,37 @@
-.banner img{    
-    max-width: 100vw;
+.index .banner.container a{
+    color: #fff !important;
 }
+
+.cont{
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+.index  .banner.container a.active{
+    border-bottom: 2px solid #fff;
+}
+
+.banner.container{
+    background: linear-gradient(rgba(11, 39, 71, 0.8) 78.65%, rgba(0, 13, 27, 0.8) 100%);
+    width: 100%;
+    max-width: 100%;
+}
+
+.btn-banner{
+    display: inline;
+    width:  7rem;
+    margin-right: 1rem;
+}
+
+.btn-banner button{
+    border: 2px solid #fff;
+    color: #fff;
+    width:  7rem;
+    padding:  0.4rem 0;
+    outline: none;
+    background-color: transparent;
+}
+
 .grid-section img{
     display: block;
     width: 40px;
@@ -13,3 +44,82 @@
     width: 100%;
     text-align: center;
 }
+
+
+
+h1{
+    font-weight: bold;
+    color: #fff;
+    font-size:  2.4rem;
+}
+
+h3{
+    font-weight: 200;
+    color: #fff;
+    font-size:  1.2rem;    
+}
+
+h2{
+    font-size: 1.7rem;
+}
+
+article{
+    margin: 4rem auto 0 !important;
+    text-align: center;
+    padding: 0 10%;
+}
+
+article #conceito h2{
+    font-weight: bold;
+    color: #3C526C;
+}
+
+article #conceito p{
+    color: #938F8F;
+    font-weight: 300;
+    margin-top: 1.4rem;
+}
+
+article #conceito{
+    margin-right: 2rem;
+}
+
+article #beneficio{
+    background-color:  #3C526C;
+    padding: 1rem 1.5rem;
+    border-radius: 9px;
+}
+
+article #beneficio h2{
+    font-weight: bold;
+    color: #fff;
+}
+
+article #beneficio p{
+    color: #fff;
+    font-weight: 200;
+    margin-top: 1.4rem;
+}
+
+#topicos{
+    margin: 4rem auto 0; 
+}
+
+#topicos div div{
+    border: 4px solid #FFDA7F;;
+    max-width: 180px;
+    height: 130px;
+    margin: 1.5rem auto 0;
+    padding-bottom:  2rem;
+}
+
+#topicos div div img{
+    margin: 1rem auto 0.9rem;
+}
+
+#topicos div div a{
+    text-decoration: none;
+    font-weight: 700;
+    color:  #3C526C;
+}
+

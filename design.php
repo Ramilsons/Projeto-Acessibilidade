@@ -15,7 +15,7 @@
                 <div class="container">
                     <div class="row mt-5 mb-5">
                         <div class="col-6" id="div-linha">
-                            <h3 class="titulo_forma">W3C e o Design Acessível</h3>
+                            <h3 class="titulo_forma" id="principal">W3C e o Design Acessível</h3>
 
                             <img src="img/design/design1.jpg" alt="" class="img-fluid" id="img_design1">
 

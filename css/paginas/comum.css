@@ -1,9 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
 body{
     max-width: 100%;
+    font-family: 'Raleway', sans-serif;
 }
 
 a.active{
-    border-bottom: 1px solid #000;
+    border-bottom: 2px solid #000;
 }
 
 .copy-code{
@@ -28,4 +31,47 @@ a.active{
 
 .copy-code button img{
     width: 20px;
+}
+
+footer{
+    padding-top:  2rem;
+    background-color: #F3EEEE;
+    margin-top: 2rem;
+    width: 100%;
+    position: relative;
+}
+
+footer h5{
+    font-weight: bold;
+}
+
+footer nav li{
+    text-decoration: none;
+    list-style: none;
+}
+
+footer nav li a{
+    color: #3C526C;
+}
+
+footer p{
+    font-size: 0.8rem;
+    background-color:  #fff;
+    padding-top: 0.3rem;
+    border-radius: 1rem 1rem 0 0;
+    margin-bottom: 0;
+}
+
+.topo{
+    position: absolute;
+    bottom:  20px;
+    right: 20px;
+    border:  3px solid #333;
+    background-color: transparent;
+    border-radius: 6px;
+}
+
+.topo img{
+    max-height: 35px;
+    padding: 2px 0;
 }
