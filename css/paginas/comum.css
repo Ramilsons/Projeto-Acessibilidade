@@ -72,6 +72,10 @@ footer p{
 }
 
 .topo img{
-    max-height: 35px;
+    height: 35px;
     padding: 2px 0;
+}
+
+.topo:hover{
+    transform:  scale(1.2);
 }

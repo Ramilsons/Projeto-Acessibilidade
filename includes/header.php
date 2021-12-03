@@ -1,6 +1,6 @@
 <header>
     <!-- Esse link deverá aparecer quando o usuário apertar tab pela primeira vez na página-->
-    <a href="#principal" class="visually-hidden-focusable">Ir para o conteúdo principal</a>
+    <a href="#principal" class="visually-hidden-focusable" id="link-conteudo">Ir para o conteúdo principal</a>
     
         <nav class="navbar navbar-expand-lg navbar-light">
         <div class="container-fluid">
