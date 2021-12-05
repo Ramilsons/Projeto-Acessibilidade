@@ -14,16 +14,23 @@
                         <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'index.php') ? "active" : ''; ?>" href="index.php">Home</a>
                     </li>
                     <li class="nav-item ps-lg-3">
+                        <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'contato.php') ? "active" : ''; ?>" href="contato.php">Quem Somos</a>
+                    </li>
+                    <li class="nav-item ps-lg-3">
                         <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'design.php') ? "active" : ''; ?>" href="design.php">Design</a>
                     </li>
                     <li class="nav-item ps-lg-3">
-                        <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'principais_falhas.php') ? "active" : ''; ?>" href="principais_falhas.php">Principais Falhas</a>
+                        <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'checagem.php') ? "active" : ''; ?>" href="checagem.php">Checagem</a>
                     </li>
-                    <li class="nav-item ps-lg-3">
-                        <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'contato.php') ? "active" : ''; ?>" href="contato.php">Contato</a>
-                    </li>
-                    <li class="nav-item ps-lg-3">
-                        <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'menu.php') ? "active" : ''; ?>" href="menu.php">Menus</a>
+                    <li class="nav-item dropdown ps-lg-3">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Componentes</a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
+                            <li><a class="dropdown-item" tabindex="0"  href="formulario.php">Formulário</a></li>
+                            <li><a class="dropdown-item" tabindex="0" href="imagem.php">Imagem</a></li>    
+                            <li><a class="dropdown-item" tabindex="0" href="tabelas.php">Tabelas</a></li>
+                            <li><a class="dropdown-item" tabindex="0" href="menu.php">Menu</a></li>
+                            <li><a class="dropdown-item" tabindex="0" href="principais_falhas.php">Principais Falhas</a></li> 
+                        </ul>
                     </li>
                 </ul>
             </div>
