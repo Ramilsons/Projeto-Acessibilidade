@@ -21,6 +21,7 @@ input, textarea
 {
     border: 2px solid #fff !important;
     background-color: #3C526C !important;
+    color: #fff !important;
 }
 
 textarea:focus, input:focus {

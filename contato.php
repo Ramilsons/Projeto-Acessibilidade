@@ -74,20 +74,20 @@
                         </div>
                     </div>
                     <div class="col-12 col-sm-12 col-md-6 col-lg-6 mt-5 mb-5 form_contato" id="secundario">
-                        <h2 class="tituloDuvida">Dúvidas sobre Acessibilidade?</h2>
+                        <fieldset class="tituloDuvida"><legend>Dúvidas sobre Acessibilidade?</legend></fieldset>
 
                         <form id="group_contato" aria-label="Formulário de contato para coleta de informações do usuário e sugestões">
                             <div class="mb-3">
-                                <label for="exampleInputEmail1" class="form-label">Email </label>
-                                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="campo de texto para inserir o email">
+                                <label for="EmailUsuario" class="form-label">Email </label>
+                                <input type="email" class="form-control" id="EmailUsuario" placeholder="Email..." aria-describedby="campo de texto para inserir o email">
                             </div>
                             <div class="mb-3">
-                                <label for="exampleInputname1" class="form-label">Nome</label>
-                                <input type="text" class="form-control" id="exampleInputname1">
+                                <label for="NomeUsuario" class="form-label">Nome</label>
+                                <input type="text" class="form-control" id="NomeUsuario" placeholder="Nome..." aria-describedby="campo de texto para inserir o nome">
                             </div>
                             <div class="mb-3">
-                                <label for="floatingTextarea" class="form-label">Sugestão </label>
-                                <textarea class="form-control" placeholder="" rows="10" cols="50" id="floatingTextarea"></textarea>
+                                <label for="Sugestoes" class="form-label">Sugestão </label>
+                                <textarea class="form-control" name="sugestoes" placeholder="Sugestões..." rows="10" cols="50" id="Sugestoes" aria-describedby="campo de texto para inserir sua sugestão"></textarea>
                             </div>
                             <div class="btn_div">
                                 <button type="submit" class="btn btn-primary">Enviar</button>
