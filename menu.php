@@ -11,7 +11,22 @@
 
     <img  class="banner" src="./img/menu/banner.svg" alt="">
     <main class="position-relative">
-        <article class="ms-auto col-12 col-md-8">
+        <section class="position-absolute top-0 start-0 pt-4 topicos">
+                <button aria-label="Clique para abrir ou fechar a navegação dos tópicos do artigos" id="btn-topicos">
+                    <img src="./img/menu/seta.png" alt="seta na cor branca">
+                </button>
+                <div class="row active">
+                    <h3 class="col-9">Tópicos</h3>
+                    <nav>
+                        <ul>
+                            <li><a href="#introducao">Introdução</a></li>
+                            <li><a href="#tags">Tags</a></li>
+                            <li><a href="#estilo">Estilo</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </section>
+        <article class="ms-auto col-12 col-md-8 container">
 
             <hgroup>
                 <h1 id="principal">Construa um Menu acessível para seu site</h1>
@@ -81,6 +96,7 @@
                             text-decoration: underline;
                         }
                     </code>
+                    <pre><?php echo htmlentities($code) ?></pre>
                 </div>
             </section>
             <img src="./img/menu/im2.svg" alt="Três botões alinhados horizontalmente, onde o primeiro com o texto Início está com um sublinhado abaixo do texto, a cor do texto branca e o fundo azul. Os outros dois botões estão com a cor da fonte azul e o fundo branco">
@@ -90,20 +106,8 @@
             <img src="./img/menu/im4.svg" alt="Três botões alinhados horizontalmente, onde o todos estão com a fonte na cor amarela e o fundo azul. O primeiro contém o texto Início, o segundo Notícias e o terceiro Blog">
 
         </article>
-        <section class="position-absolute top-0 start-0 pt-4">
-            <div class="row">
-                <h3 class="col-9">Tópicos</h3>
-                <button class="col-2 ms-auto invisible" aria-label="Fechar">X</button>
-            </div>
-            <nav>
-                <ul>
-                    <li><a href="#introducao">Introdução</a></li>
-                    <li><a href="#tags">Tags</a></li>
-                    <li><a href="#estilo">Estilo</a></li>
-                </ul>
-            </nav>
-        </section>
     </main>
     <?php include './includes/footer.php'; ?>
+    <script src="./js/menu.js"></script>
 </body>
 </html>

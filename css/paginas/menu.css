@@ -15,6 +15,58 @@ article img{
 }
 
 
+.topicos{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
+
+.topicos .row{
+    display: none;
+    background-color:  #3C526C;
+    border-radius: 0px 0px 8px 0px;
+    padding: 1rem;
+    margin: 0;
+}
+
+.topicos .row h3{
+    color: #fff;
+}
+
+.topicos .row ul{
+    list-style: none;
+    padding: 0;
+}
+
+.topicos .row li{
+    margin-bottom: 10px;
+}
+
+.topicos .row a{
+    text-decoration: none;
+    color:#bfbcb3;
+}
+
+
+.topicos .row.active{
+    display: initial;
+}
+
+.topicos button{
+    border: none;
+    background-color: #3C526C;
+    border-radius: 0 10px 10px 0;
+    width: 40px;
+    height: 40px;
+    padding:  5px 10px;
+    box-sizing: content-box;
+}
+
+.topicos button img{
+    width: 40px;
+}
+
+
 @media (max-width: 576px){
     .banner{
         width: 100%;

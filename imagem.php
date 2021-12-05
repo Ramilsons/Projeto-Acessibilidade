@@ -12,7 +12,7 @@
 
 <body>
     <?php include './includes/header.php'; ?>
-    <main>
+    <main class="container">
         <section> 
            <div class="jumbotron jumbotron-fluid">
             <div class="container text-center">
@@ -173,8 +173,7 @@ Exemplo: um link de texto para a longa descrição adjacente à imagem.</p>
   </div>
 </div>
 </article>
-    </main>
-                <aside>
+<aside>
     <div class="row" id="Referência">
             <p class="p1">
                 Referência Bibliográfica:
@@ -185,6 +184,7 @@ Exemplo: um link de texto para a longa descrição adjacente à imagem.</p>
             </p>
             </div>
 </aside>
+    </main>
  
     <?php include './includes/footer.php'; ?>
 </body>

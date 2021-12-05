@@ -9,7 +9,7 @@
 
 <body>
     <?php include './includes/header.php'; ?>
-    <main>
+    <main class="container">
         <article>
             <section>
                 <h1 id="principal">Metodos de Checagem</h1>

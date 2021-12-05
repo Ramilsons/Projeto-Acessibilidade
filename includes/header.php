@@ -5,8 +5,8 @@
         <nav class="navbar navbar-expand-lg navbar-light">
         <div class="container-fluid">
             <!-- Botão de menu aparecerá apenas para tablet e mobile -->
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <img src="./img/menu.svg" alt="Menu">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Clique para abrir/fechar o menu de navegação">
+                <img src="./img/menu.svg" alt="Três barras horrizontais, uma abaixo da outra. Representa o ícone de menu">
             </button>
             <div class="collapse navbar-collapse justify-content-lg-center " id="navbarNav">
                 <ul class="navbar-nav">
@@ -22,14 +22,16 @@
                     <li class="nav-item ps-lg-3">
                         <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'checagem.php') ? "active" : ''; ?>" href="checagem.php">Checagem</a>
                     </li>
+                    <li>
+                        <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'principais_falhas.php') ? "active" : ''; ?>" href="principais_falhas.php">Principais Falhas</a>
+                    </li> 
                     <li class="nav-item dropdown ps-lg-3">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Componentes</a>
-                    <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
-                            <li><a class="dropdown-item" tabindex="0"  href="formulario.php">Formulário</a></li>
-                            <li><a class="dropdown-item" tabindex="0" href="imagem.php">Imagem</a></li>    
-                            <li><a class="dropdown-item" tabindex="0" href="tabelas.php">Tabelas</a></li>
-                            <li><a class="dropdown-item" tabindex="0" href="menu.php">Menu</a></li>
-                            <li><a class="dropdown-item" tabindex="0" href="principais_falhas.php">Principais Falhas</a></li> 
+                    <ul class="dropdown-menu" id="dropdown" aria-labelledby="navbarScrollingDropdown">
+                            <li><a class="dropdown-item <?php echo (basename($_SERVER['PHP_SELF']) == 'formulario.php') ? "active" : ''; ?>" tabindex="0"  href="formulario.php">Formulário</a></li>
+                            <li><a class="dropdown-item <?php echo (basename($_SERVER['PHP_SELF']) == 'imagem.php') ? "active" : ''; ?>" tabindex="0" href="imagem.php">Imagem</a></li>    
+                            <li><a class="dropdown-item <?php echo (basename($_SERVER['PHP_SELF']) == 'tabelas.php') ? "active" : ''; ?>" tabindex="0" href="tabelas.php">Tabelas</a></li>
+                            <li><a class="dropdown-item <?php echo (basename($_SERVER['PHP_SELF']) == 'menu.php') ? "active" : ''; ?>" tabindex="0" href="menu.php">Menu</a></li>
                         </ul>
                     </li>
                 </ul>

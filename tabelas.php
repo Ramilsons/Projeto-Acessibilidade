@@ -10,7 +10,7 @@
 
 <body>
     <?php include './includes/header.php'; ?>
-    <main>
+    <main class="container">
         <section> 
             <div class="jumbotron jumbotron-fluid">
                 <div class="container text-center">
@@ -89,24 +89,24 @@ Na linha do cabeçalho, o valor col para o escopo associa cada célula do cabeç
                 </div>
                 </section>
 </article>
-    </main>
-    <aside>
-    <div class="row" id="Referência">
-            <p class="p1">
-            Referência Bibliográfica:
-                Web Accessibility Tutorials, 2021. Disponível
-                em: https://www.w3.org/WAI/tutorials/tables/. Acesso em: 28 de
-                novembro de
-                2021.
-                </p>
-                <p class="p2">
-                Tabelas Acessíveis , 2021. Disponível
-                em:https://www.gov.br/governodigital/pt-br/acessibilidade-digital/tabelas-acessiveis.pdf. Acesso em: 28 de
-                novembro de
-                2021.
+<aside>
+<div class="row" id="Referência">
+        <p class="p1">
+        Referência Bibliográfica:
+            Web Accessibility Tutorials, 2021. Disponível
+            em: https://www.w3.org/WAI/tutorials/tables/. Acesso em: 28 de
+            novembro de
+            2021.
             </p>
-            </div>
+            <p class="p2">
+            Tabelas Acessíveis , 2021. Disponível
+            em:https://www.gov.br/governodigital/pt-br/acessibilidade-digital/tabelas-acessiveis.pdf. Acesso em: 28 de
+            novembro de
+            2021.
+        </p>
+        </div>
 </aside>
+    </main>
     <?php include './includes/footer.php'; ?>
 </body>
 </html>
