@@ -5,8 +5,34 @@ body{
     font-family: 'Raleway', sans-serif;
 }
 
+header{
+    background-color: #3C526C;
+    width: 100%;
+}
+
+.dropdown-menu.show{
+    background-color: #3C526C !important;
+}
+
 a.active{
-    border-bottom: 2px solid #000;
+    border-bottom: 2px solid #fff;
+}
+
+
+header nav a.nav-link, .dropdown-item{
+    color: #fff !important;
+}
+
+article h1{
+    margin: 2rem 0;
+}
+
+article h2, article h3, main h2, main h3{
+    margin: 1.5rem 0;
+}
+
+article p{
+    margin-bottom: 1rem;
 }
 
 body .dropdown-item{

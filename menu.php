@@ -11,8 +11,8 @@
 
     <img  class="banner" src="./img/menu/banner.svg" alt="">
     <main class="position-relative">
-        <section class="position-absolute top-0 start-0 pt-4 topicos">
-                <button aria-label="Clique para abrir ou fechar a navegação dos tópicos do artigos" id="btn-topicos">
+        <section class="position-absolute topicos">
+                <button aria-label="Clique para fechar a navegação dos tópicos do artigos" id="btn-topicos">
                     <img src="./img/menu/seta.png" alt="seta na cor branca">
                 </button>
                 <div class="row active">
@@ -96,7 +96,6 @@
                             text-decoration: underline;
                         }
                     </code>
-                    <pre><?php echo htmlentities($code) ?></pre>
                 </div>
             </section>
             <img src="./img/menu/im2.svg" alt="Três botões alinhados horizontalmente, onde o primeiro com o texto Início está com um sublinhado abaixo do texto, a cor do texto branca e o fundo azul. Os outros dois botões estão com a cor da fonte azul e o fundo branco">

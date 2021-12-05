@@ -19,6 +19,8 @@ article img{
     display: flex;
     justify-content: space-between;
     flex-direction: row-reverse;
+    z-index: 9999;
+    top: 0;
 }
 
 .topicos .row{
@@ -56,14 +58,15 @@ article img{
     border: none;
     background-color: #3C526C;
     border-radius: 0 10px 10px 0;
-    width: 40px;
-    height: 40px;
+    width: 35px;
+    height: 35px;
     padding:  5px 10px;
     box-sizing: content-box;
 }
 
 .topicos button img{
-    width: 40px;
+    width: 35px;
+    transform: rotate(180deg);
 }
 
 

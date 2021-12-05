@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <?php include './includes/bootstrap-css.php'; ?>
-
+    <link rel="stylesheet" href="./css/paginas/checagem.css">
     <title>Checagem | Seu site mais acessível</title>
 </head>
 
 <body>
     <?php include './includes/header.php'; ?>
-    <main class="container">
+    <main class="container position-relative">
         <article>
             <section>
                 <h1 id="principal">Metodos de Checagem</h1>
@@ -50,22 +50,30 @@
                     eros metus, eu aliquet augue scelerisque sed.</p>
             </section>
         </article>
-        <aside>
-            <button aria-label="Fechar">Fechar</button>
-            <h3>confira se você já fez os seguintes passos:</h3>
-
-            <input type="checkbox" id="check1" name="check1">
-            <label for="check1">Check 1</label>
-            <input type="checkbox" id="check2" name="check2">
-            <label for="check2">Check 2</label>
-            <input type="checkbox" id="check3" name="check3">
-            <label for="check3">Check 3</label>
+        <aside class="position-fixed checklist active">
+            <button aria-label="Clique para fechar o checklist">
+                <img src="./img/menu/seta.png" alt="seta na cor branca">
+            </button>
+            <div class="conteudo">
+                <h3>confira se você já fez os seguintes passos:</h3>
+                <div class="box-selecionar">
+                    <input type="checkbox" id="check1" name="check1">
+                    <label for="check1">Check 1</label>
+                </div>
+                <div class="box-selecionar">
+                    <input type="checkbox" id="check2" name="check2">
+                    <label for="check2">Check 2</label>
+                </div>
+                <div class="box-selecionar">
+                    <input type="checkbox" id="check3" name="check3">
+                    <label for="check3">Check 3</label>
+                </div>
+            </div>
         </aside>
     </main>
 
     <?php include './includes/footer.php'; ?>
-
-    
+    <script src="./js/checagem.js"></script>
 </body>
 
 </html>

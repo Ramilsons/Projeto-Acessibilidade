@@ -1,20 +1,6 @@
-.index .banner.container .dropdown-menu.show{
-    background-color: #3C526C;
-}
-
-.index .banner.container a{
-    color: #fff !important;
-}
-
 .cont{
     max-width: 90%;
     margin: 0 auto;
-}
-
-
-
-.index  .banner.container a.active{
-    border-bottom: 2px solid #fff;
 }
 
 .banner.container{
