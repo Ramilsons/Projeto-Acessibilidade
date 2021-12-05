@@ -51,8 +51,8 @@
                 </div>
 
                 <div class="row conteudo">
-                    <h2>3. Formulários</h2>
-                    <p>Os formulários são em sua essência formas de interagir e coletar informações do usuário. Eles obviamente devem ser acessíveis a qualquer pessoa que acesse sua aplicação, por isso deve se atentar as descrições dos campos do formulário e também o tipo de navegação que pode se utilizar para andar pelo campos do formulário. Muitas vezes os campos não possuem a descrição correta dificultando a compreensão de pessoas que possuem deficiência</p>
+                    <h2>4. Formulários</h2>
+                    <p>Os formulários são em sua essência formas de interagir e coletar informações do usuário. Eles obviamente devem ser acessíveis a qualquer pessoa que acesse sua aplicação, por isso deve se atentar as descrições dos campos do formulário e também o tipo de navegação que pode se utilizar para andar pelo campos do formulário. Muitas vezes os campos não possuem a descrição correta dificultando a compreensão de pessoas que possuem deficiência.</p>
                 </div>
 
                 <div class="row">
