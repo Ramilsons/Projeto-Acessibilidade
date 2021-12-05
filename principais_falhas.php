@@ -15,7 +15,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-6">
-                        <img src="img/principais falhas/principais1.jpg" alt="..." class="img-fluid">
+                        <img src="img/principais falhas/principais1.jpg" alt="Imagem de um garoto debochando de outro garoto em um ambiente escolar. Imagem tirada do site freepik.com" class="img-fluid">
                     </div>
                     <div class="col-6 titulo">
                         <h1 id="principal">Principais Falhas</h1>
