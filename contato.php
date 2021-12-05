@@ -13,8 +13,8 @@
     <main>
         <article>
             <div class="container">
-                <div class="row">
-                    <div class="col-6 mt-5 mb-5">
+                <div class="row" id="principal">
+                    <div class="col-12 col-sm-12 col-md-6 col-lg-6 mt-5 mb-5">
                         <h2 id="principal">Quem somos</h2>
                         <div class="card mt-5" style="max-width: 450px;">
                             <div class="row g-0">
@@ -25,7 +25,7 @@
                                     <div class="card-body">
                                         <h5 class="card-title">Felipe</h5>
                                         <p class="card-text">RA:</p>
-                                        <p class="funcao">Função:</p>
+                                        <p class="funcao">Função:...</p>
                                     </div>
                                 </div>
                             </div>
@@ -39,7 +39,7 @@
                                     <div class="card-body">
                                         <h5 class="card-title">Ramilson</h5>
                                         <p class="card-text">RA:</p>
-                                        <p class="funcao">Função:</p>
+                                        <p class="funcao">Função:Designer</p>
                                     </div>
                                 </div>
                             </div>
@@ -51,9 +51,9 @@
                                 </div>
                                 <div class="col-md-8">
                                     <div class="card-body">
-                                        <h5 class="card-title">Tatiana</h5>
-                                        <p class="card-text">RA:</p>
-                                        <p class="funcao">Função:</p>
+                                        <h5 class="card-title">Tatiana Nakata Mishima</h5>
+                                        <p class="card-text">RA: 2650832023019</p>
+                                        <p class="funcao">Função:Gerente</p>
                                     </div>
                                 </div>
                             </div>
@@ -73,10 +73,10 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-6 mt-5 mb-5 form_contato">
+                    <div class="col-12 col-sm-12 col-md-6 col-lg-6 mt-5 mb-5 form_contato" id="secundario">
                         <h2 class="tituloDuvida">Dúvidas sobre Acessibilidade?</h2>
 
-                        <form>
+                        <form id="group_contato" aria-label="Formulário de contato para coleta de informações do usuário e sugestões">
                             <div class="mb-3">
                                 <label for="exampleInputEmail1" class="form-label">Email </label>
                                 <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="campo de texto para inserir o email">
