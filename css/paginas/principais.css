@@ -2,6 +2,8 @@
 {
     margin-left: -150px;
 } */
+
+
 body
 {
     margin: 0px;
@@ -54,17 +56,11 @@ hr
     
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 990px) {
     .titulo
     {
-        margin-top: 100px;
-    }
-}
-
-@media screen and (max-width: 500px) {
-    .titulo
-    {
-        margin-top: 70px;
+        text-align: center !important;
+        margin-top: 40px;
     }
 
     .linha

@@ -14,11 +14,11 @@
         <article>
             <div class="container" id="principal">
                 <div class="row">
-                    <div class="col-6">
-                        <img src="img/principais falhas/principais1.jpg" alt="Imagem de um garoto debochando de outro garoto em um ambiente escolar. Imagem tirada do site freepik.com" class="img-fluid">
-                    </div>
-                    <div class="col-6 titulo">
+                <div class="col-12 col-md-12 col-lg-6 titulo">
                         <h1 id="principal">Principais Falhas</h1>
+                    </div>
+                    <div class="col-12 col-md-12 col-lg-6">
+                        <img src="img/principais falhas/principais1.jpg" alt="Imagem de um garoto debochando de outro garoto em um ambiente escolar. Imagem tirada do site freepik.com" class="img-fluid">
                     </div>
                 </div>
 
