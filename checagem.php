@@ -13,41 +13,32 @@
         <article>
             <section>
                 <h1 id="principal">Metodos de Checagem</h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id lacinia massa, vel sodales mi. Morbi
-                    placerat dolor nec leo tempus dapibus. Mauris urna dui, molestie vel vehicula et, commodo vel magna. Etiam
-                    eget nisl a tortor molestie facilisis sed ac tellus. Quisque nec interdum elit, at volutpat elit. Proin
-                    facilisis ultrices venenatis. Mauris ut libero consequat, rhoncus massa sed, feugiat turpis. Aliquam at orci
-                    laoreet, convallis risus at, tristique arcu. Cras auctor condimentum augue, nec dictum purus maximus ac. In
-                    non diam lobortis magna vestibulum efficitur. Proin lectus lorem, rutrum sit amet suscipit sit amet,
-                    lobortis vel dolor. Curabitur nulla eros, venenatis a nisl a, porta fringilla diam. Duis ultricies vehicula
-                    nisl a efficitur. Integer nibh felis, malesuada sit amet erat ut, lobortis ultrices ipsum. Praesent mattis
-                    eros metus, eu aliquet augue scelerisque sed.</p>
+                <p>Quando vamos desenvolver um site acessível, devemos pensar não somente nas pessoas com deficiência como público alvo. A ideia de acessibilidade tem como propósito facilitar a navegação de todos que acessarem o projeto, desde pessoas com baixa visão, autistas, baixa audição, idosos, dificuldades físicas ou motoras e entre outros.</p>
+                <p>Com isso em mente, temos uma lista de quais recursos devemos utilizar:</p>
             </section>
 
             <section>
                 <h2>Recursos Utilizados</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id lacinia massa, vel sodales mi. Morbi
-                    placerat dolor nec leo tempus dapibus. Mauris urna dui, molestie vel vehicula et, commodo vel magna. Etiam
-                    eget nisl a tortor molestie facilisis sed ac tellus. Quisque nec interdum elit, at volutpat elit. Proin
-                    facilisis ultrices venenatis. Mauris ut libero consequat, rhoncus massa sed, feugiat turpis. Aliquam at orci
-                    laoreet, convallis risus at, tristique arcu. Cras auctor condimentum augue, nec dictum purus maximus ac. In
-                    non diam lobortis magna vestibulum efficitur. Proin lectus lorem, rutrum sit amet suscipit sit amet,
-                    lobortis vel dolor. Curabitur nulla eros, venenatis a nisl a, porta fringilla diam. Duis ultricies vehicula
-                    nisl a efficitur. Integer nibh felis, malesuada sit amet erat ut, lobortis ultrices ipsum. Praesent mattis
-                    eros metus, eu aliquet augue scelerisque sed.</p>
+
+                <p>Lista de Recursos para auxiliar na criação de um Site Acessivel:</p>
+
+                <ul>
+                    <li>Adicionar "Alt Text" atribuído as tags de imagens, com intuito de ser uma descrição simples e detalhada sobre o conteúdo da imagem</li>
+                    <li>Usar títulos/cabeçalhos coerentes com o conteúdo no qual ele se referencia </li>
+                    <li>Adaptar as suas formas aos leitores de tela</li>
+                    <li>Colocar a opção "Ir para o conteúdo principal" no topo de cada página.</li>
+                    <li>Tornar todo o conteúdo navegável através do teclado.</li>
+                    <li>Tamanho de letra - uso adequado do tamanho da letra que pode variar em função da fonte escolhida - 10 costuma ser o mínimo recomendável.</li>
+                    <li>Assegurar que os usuários que usam teclados podem identificar visualmente um link focalizado - usar uma linha pontilhada ou outros indicadores sem cor.</li>
+                    <li>Garantir que o Texto dos Links faz sentido por si só - evite "Clique Aqui" ou outras referências ambíguas como "Mais" ou "Continuar" que podem ser confusas.</li>
+                    <li>Evitar o uso de conteúdo com muita oscilação de luz ou efeitos de estrobo, pois pode causar algum tipo de ataque (em pessoas epilépticas, por exemplo).</li>
+                </ul>
+
             </section>
 
             <section>
                 <h3>Funcionamento do NVDA</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id lacinia massa, vel sodales mi. Morbi
-                    placerat dolor nec leo tempus dapibus. Mauris urna dui, molestie vel vehicula et, commodo vel magna. Etiam
-                    eget nisl a tortor molestie facilisis sed ac tellus. Quisque nec interdum elit, at volutpat elit. Proin
-                    facilisis ultrices venenatis. Mauris ut libero consequat, rhoncus massa sed, feugiat turpis. Aliquam at orci
-                    laoreet, convallis risus at, tristique arcu. Cras auctor condimentum augue, nec dictum purus maximus ac. In
-                    non diam lobortis magna vestibulum efficitur. Proin lectus lorem, rutrum sit amet suscipit sit amet,
-                    lobortis vel dolor. Curabitur nulla eros, venenatis a nisl a, porta fringilla diam. Duis ultricies vehicula
-                    nisl a efficitur. Integer nibh felis, malesuada sit amet erat ut, lobortis ultrices ipsum. Praesent mattis
-                    eros metus, eu aliquet augue scelerisque sed.</p>
+                <p>O NVDA (NonVisual Desktop Access) é um "leitor de tela" gratuito que permite a pessoas cegas e com deficiência visual a leitura de textos na tela do computador por meio de uma voz computadorizada. O NVDA (NonVisual Desktop Access) é um "leitor de tela" gratuito que permite a pessoas cegas e com deficiência visual a leitura de textos na tela do computador por meio de uma voz computadorizada. Você pode controlar o que é lido para você, movendo o cursor para a área relevante de texto com um mouse ou as setas em seu teclado. O NVDA também funciona com o Microsoft Windows. O usuário pode converter o texto em braille se o usuário do computador possui um dispositivo chamado "exibição braille".</p>
             </section>
         </article>
         <aside class="position-fixed checklist active">
