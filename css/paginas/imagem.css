@@ -1,5 +1,11 @@
-header{
-    margin-bottom: 30px;
+.abaixo-do-header{
+    background-color: #3C526C;
+    padding: 40px 0 3rem;
+    color: #fff;
+}
+
+article{
+    margin-top: -1.5rem;
 }
 
 details{
@@ -39,8 +45,9 @@ img{
 }
 
 h4{
-    color: #999999;
+    color: #fff;
     font-weight: 300;
-    font-size: 1.3rem;
+    font-size: 1.1rem;
     margin-bottom: 25px;
+    text-align: center;
 }

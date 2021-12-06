@@ -12,8 +12,8 @@
 
 <body>
   <?php include './includes/header.php'; ?>
-  <main class="container">
-    <section>
+  <main>
+    <section class="abaixo-do-header">
       <div class="jumbotron jumbotron-fluid">
         <div class="container text-center">
           <h1 class="display-4" id="principal">Trabalhando com Imagens </h1>
@@ -25,7 +25,7 @@
           Este tutorial demonstra como fornecer alternativas de texto apropriadas com base na finalidade da imagem:</h4>
       </div>
     </section>
-    <article>
+    <article class="container">
 
       <div class="d-grid col-12 col-md-6 mx-auto">
         <details>
@@ -195,7 +195,7 @@
         </details>
       </div>
     </article>
-    <aside>
+    <aside class="container">
       <div class="row" id="Referência">
         <p class="p1">
           Referência Bibliográfica:

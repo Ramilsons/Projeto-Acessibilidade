@@ -20,7 +20,7 @@ article img{
     justify-content: space-between;
     flex-direction: row-reverse;
     z-index: 9999;
-    top: 0;
+    top: 20rem;
 }
 
 .topicos .row{

@@ -11,7 +11,7 @@
 
     <img  class="banner" src="./img/menu/banner.svg" alt="">
     <main class="position-relative">
-        <section class="position-absolute topicos">
+        <section class="position-fixed topicos">
                 <button aria-label="Clique para fechar a navegação dos tópicos do artigos" id="btn-topicos">
                     <img src="./img/menu/seta.png" alt="seta na cor branca">
                 </button>
