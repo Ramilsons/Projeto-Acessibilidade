@@ -23,6 +23,10 @@ header nav a.nav-link, .dropdown-item{
     color: #fff !important;
 }
 
+header nav a.nav-link:hover, .dropdown-item:hover, header nav a.nav-link.active:hover, .dropdown-item.active:hover{
+    color: #888 !important;
+}
+
 article h1{
     margin: 2rem 0;
 }
@@ -118,4 +122,8 @@ footer p{
 
 p{
     color: #878a85;
+}
+
+.copy-code{
+    margin-bottom: 1rem;
 }

@@ -1,5 +1,6 @@
 <script src="./js/bootstrap.bundle.min.js"></script>
 <script type="text/javascript" src="./js/common.js"></script>
+<script src="./js/common.js"></script>
 <footer>
     <nav  class="container">
         <h5>Navegue pelo nosso site</h5>

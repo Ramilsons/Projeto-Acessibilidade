@@ -37,7 +37,7 @@
             <p>Primeiro, devemos destacar que é de enorme importância a semântica do seu código pois ela será analisada por tecnologias assistivas. Então passaremos pelas principais tags que deverão ser usadas no menu.</p>
             <p>Para abranger os links das páginas, é interessante usar <strog><code>&lt;a&gt;</code></strong> ou <code>&lt;ol&gt;</code>. A tag <code>&lt;ul&gt;</code> deve ser usada quando a ordem dos links não tem importância, já o <code>&lt;ol&gt;</code> deve ser usado quando a ordem dos elementos tem importância.</p>
             <section  class="copy-code">
-                <button class="d-block ms-auto" aria-label="Copiar código">
+                <button class="d-block ms-auto"aria-label="Copiar código">
                     <img src="./img/copy.png" alt="duas paginas, umas sobrepondo a outra" title="copiar código">
                 </button>
                 <div>
@@ -58,13 +58,13 @@
                 </button>
                 <div>
                     <code>
-                        <nav aria-label="Menu principal">
-                                <ul>
-                                    <li><a href="…">Home</a></li>
-                                    <li><a href="…">Notícias</a></li>
-                                    <li><a href="…">Contato</a></li>
-                                </ul>
-                        </nav>
+                        &lt;nav aria-label="Menu principal"&gt;
+                                 &lt;ul&gt;
+                                     &lt;li&gt; &lt;a href="…"&gt;Home &lt;/a&gt; &lt;/li&gt;
+                                     &lt;li&gt; &lt;a href="…"&gt;Notícias &lt;/a&gt; &lt;/li&gt;
+                                     &lt;li&gt; &lt;a href="…"&gt;Contato &lt;/a&gt; &lt;/li&gt;
+                                 &lt;/ul&gt;
+                         &lt;/nav&gt;
                     </code>
                 </div>
             </section>
@@ -75,7 +75,7 @@
                 </button>
                 <div>
                     <code>
-                        <li><a href="…" aria-current="page">Home</a></li>
+                        &lt;li&gt;&lt;a href="…" aria-current="page"&gt;Home&lt;/a&gt;&lt;/li&gt;
                     </code>
                 </div>
             </section>
