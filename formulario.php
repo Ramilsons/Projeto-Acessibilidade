@@ -12,11 +12,11 @@
         <img src="img/form/banner_form.png" alt="imagem de um formulario sendo preenchido com um lapis">
         <article class="container" >
             <div class="row ">
-                    <div class="col-sm-12 col-md-8">
+                    <div class="col-sm-12">
                     
                         <h1 id="principal" class="text-center pt-3">Trabalhando com Formulários Acessíveis</h1>
                         
-                        <p class="text-center">O uso de Formulários é a forma mais simples, e a mais comum, para a prestação de
+                        <p>O uso de Formulários é a forma mais simples, e a mais comum, para a prestação de
                         serviços interativos. Também costuma ser o primeiro obstáculo sério na implementação da
                         acessibilidade. Se acessar conteúdos informacionais de um site é uma atitude passiva do
                         visitante, o acesso de um formulário exige que o usuário interaja com este. </p>
@@ -42,7 +42,7 @@
 
                     <section class="container">
                         <div class="row">
-                            <div class="col-sm-12 col-md-8">
+                            <div class="col-sm-12">
                                 <h2 class="pt-3">Tags para a construção de um Formulário</h2>
                                 <ul>
                                     <li>FORM: o contêiner do formulário;</li>
@@ -69,7 +69,7 @@
 
                     <section class="container">
                         <div class="row">  
-                            <div class="col-sm-12 col-md-8 ">
+                            <div class="col-sm-12 ">
                                 <h3 class="pt-3">Utilização da Label</h3 >
                                 <p>O elemento LABEL
                                 O elemento LABEL é utilizado, em conjunto com o atributo “id” para relacionar de forma
@@ -143,9 +143,9 @@
 
 
                         
-                    </section>
 
-                    <section>
+
+                    
                         <h4 class="pt-3">Teclas de atalho (Accesskeys) </h4>
 
                         <p>O uso de teclas de atalho através do atributo “accesskey”, permite escolher um atalho de
@@ -162,9 +162,9 @@
                         navegadores utilizam-se delas para sua própria navegação, variando do navegador,
                         versão e língua. Em caso de conflito, a preferência é do navegador. </p>
 
-                    </section>
+                    
 
-                    <section>
+                    
                         <h4 class="pt-3">O uso de Scripts</h4>
                         <p>Um formulário deve funcionar independentemente dos scripts estarem habilitados no
                         navegador ou no leitor de tela. </p>
@@ -188,9 +188,9 @@
                         <p>Nesses casos é preferível usar a lista (elemento SELECT) junto a um botão de ação, que
                         permita o usuário ativar sua seleção. </p>
 
-                    </section>
+                    
 
-                    <section>
+                    
                         <h4 class="pt-3">Mensagens de erro amigáveis</h4>
                         <p>Muitas vezes o usuário desiste de preencher um formulário por não conseguir entender as
                         mensagens de erro. Salvo algumas exceções, a culpa é, em geral, do mau uso e
@@ -216,10 +216,6 @@
                         <p>Outra forma, mais amigável é capturar os dados preenchidos corretamente e retornar ao
                         usuário somente os campos com erros para correção. </p>
 
-                    </section>
-
-                    <section>
-
                     <h5 class="pt-3">Conteúdo retirado de:</h5>
                     <p>Accessible HTML/XHTML Forms: Beginner Level</p>
                     <p>https://www.webstandards.org/learn/tutorials/accessible-forms/beginner/</p>
@@ -228,7 +224,6 @@
                     <p>HTML 4.01 Specification - Forms </p>
                     <p>https://www.w3.org/TR/html4/interact/forms.html</p>
                     </section>
-               
     </main>
     <?php include './includes/footer.php'; ?>
 </body>
