@@ -15,8 +15,8 @@
                 <h3>Desde a semântica até o design mais recomendado de cada componente</h3>
 
                 <div class="row">
-                    <a class="btn-banner" href="#conceito"><button>conceitos</button></a>
-                    <a class="btn-banner" href="#topicos"><button>tópicos</button></a>
+                    <a class="btn-banner" href="#conceito" tabindex="-1"><button>conceitos</button></a>
+                    <a class="btn-banner" href="#topicos" tabindex="-1"><button>tópicos</button></a>
                 </div>
             </div>
             <div class="col-12 col-sm-6">
@@ -43,11 +43,11 @@
                 <a href="design.php" title="Ir para a página de design">Design</a></div>
             </div>
             <div class="col-6 col-sm-4 col-lg-3 justify-content-center">
-                <div><img src="./img/index/icon-menu.svg" alt="Três barras horrizontais na cor azul, representando um menu">
+                <div><img src="./img/index/icon-menu.svg" alt="Três barras horizontais na cor azul, representando um menu">
                 <a href="menu.php" title="Ir para a página de Menu">Menu</a></div>
             </div>
             <div class="col-6 col-sm-4 col-lg-3 justify-content-center">
-                <div><img src="./img/index/check-icon.png" alt="uma barra horrizontal com um check ao lado, abaixo dela tem outra barra horrizontal também com um check ao lado e abaixo dessa tem uma barra horizontal com um x na cor vermelha">
+                <div><img src="./img/index/check-icon.png" alt="uma barra horizontal com um check ao lado, abaixo dela tem outra barra horrizontal também com um check ao lado e abaixo dessa tem uma barra horizontal com um x na cor vermelha">
                 <a href="checagem.php" title="Ir para a página de Checagem">Checagem</a></div>
             </div>
             <div class="col-6 col-sm-4 col-lg-3 justify-content-center">

@@ -1,0 +1,53 @@
+.abaixo-do-header{
+    background-color: #3C526C;
+    padding: 40px 0 3rem;
+    color: #fff;
+}
+
+article{
+    margin-top: -1.5rem;
+}
+
+details{
+    background-color: #F6F5F5;
+    padding: 1rem 2rem;
+    border-radius: 8px;
+    margin-bottom: 0;
+}
+
+details > summary {
+    outline: none;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #3C526C;
+    font-weight: bold;
+}
+
+details[open] summary{
+    margin-bottom: 3rem;
+}
+
+details summary img{
+    margin: 0;
+    height: 30px;
+    width: 30px;
+}
+
+details > summary::-webkit-details-marker {
+    display: none;
+}
+
+img{
+    margin: 0 auto;
+    display: block;
+}
+
+h4{
+    color: #fff;
+    font-weight: 300;
+    font-size: 1.1rem;
+    margin-bottom: 25px;
+    text-align: center;
+}
