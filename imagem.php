@@ -22,7 +22,7 @@
       <div class="container text-left">
         <h4 class="título secundário">As imagens devem ter alternativas de texto que descrevam as informações ou funções
           representadas por elas. Isso garante que as imagens possam ser usadas por pessoas com várias deficiências.
-          Este tutorial demonstra como fornecer alternativas de texto apropriadas com base na finalidade da imagem:</h4>
+          Este tutorial demonstra como fornecer alternativas de texto apropriadas com base na finalidade da imagem.</h4>
       </div>
     </section>
     <article class="container">
@@ -52,7 +52,7 @@
             atributo alt.</p>
           <section class="copy-code">
             <button class="d-block ms-auto" aria-label="Copiar código">
-              <img src="./img/copy.png" alt="duas paginas, umas sobrepondo a outra" title="copiar código">
+              <img src="./img/copy.png" alt="Imagem com o código que descreve a imagem  do exemplo 1 de forma acessível." title="Código imagem exemplo 1">
             </button>
             <div>
               <code>
@@ -73,7 +73,7 @@
             melhor descreve a impressão pretendida. </p>
           <section class="copy-code">
             <button class="d-block ms-auto" aria-label="Copiar código">
-              <img src="./img/copy.png" alt="duas paginas, umas sobrepondo a outra" title="copiar código">
+              <img src="./img/copy.png" alt="Imagem com o código que descreve a imagem  do exemplo 2 de forma acessível." title="Código imagem exemplo 2">
             </button>
             <div>
               <code>
@@ -107,13 +107,13 @@
             Identificado e descrito pelo texto circundante.</p>
           <div class="row mt-5 mb-5" id="img03">
             <div class="col-12">
-              <img src="./img/imagem/barra.webp" class="img-fluid" alt="imagem decorativa">
+              <img src="./img/imagem/barra.webp" class="img-fluid" alt="Imagem de uma barra, que exemplifica uma imagem decorativa">
             </div>
           </div>
 
           <section class="copy-code">
             <button class="d-block ms-auto" aria-label="Copiar código">
-              <img src="./img/copy.png" alt="duas paginas, umas sobrepondo a outra" title="copiar código">
+              <img src="./img/copy.png" alt="Imagem com o código de uma imagem decorativa , onde o alt fica sem descrição." title="Código de uma Imagem decorativa">
             </button>
             <div>
               <code>
@@ -132,12 +132,12 @@
             alternativa em texto deve ser “imprimir esta página” em vez de “(imagem de uma) impressora”.</p>
           <div class="row mt-5 mb-5" id="img04">
             <div class="col-12">
-              <img src="./img/imagem/impressora.webp" class="img-fluid" alt="impressora" />
+              <img src="./img/imagem/impressora.webp" class="img-fluid" alt="Imagem de uma impressora" />
             </div>
           </div>
           <section class="copy-code">
             <button class="d-block ms-auto" aria-label="Copiar código">
-              <img src="./img/copy.png" alt="duas paginas, umas sobrepondo a outra" title="copiar código">
+              <img src="./img/copy.png" alt="Imagem com o código de uma imagem funcional , onde no alt fica ação que será iniciada e não a descrição da imagem." title="Código de uma Imagem funconal">
             </button>
             <div>
               <code>
@@ -175,12 +175,12 @@
             Exemplo: um link de texto para a longa descrição adjacente à imagem.</p>
           <div class="row mt-5 mb-5" id="img05">
             <div class="col-12">
-              <img src="./img/imagem/grafico.webp" class="img-fluid" alt="grafico" />
+              <img src="./img/imagem/grafico.webp" class="img-fluid" alt="Imagem de um grafico utilizada como o exemplo de uma imagem complexa" />
             </div>
           </div>
           <section class="copy-code">
             <button class="d-block ms-auto" aria-label="Copiar código">
-              <img src="./img/copy.png" alt="duas paginas, umas sobrepondo a outra" title="copiar código">
+              <img src="./img/copy.png" alt="Imagem com o código de uma imagem complexa, no caso um gráfico , onde no alt fica uma descrição curta com o título do gráfico e um resumo dos seus dados ." title="Código de uma Imagem complexa">
             </button>
             <div>
               <code>

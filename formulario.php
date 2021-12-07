@@ -9,7 +9,7 @@
 <body>
     <?php include './includes/header.php'; ?>
     <main> 
-        <img src="img/form/banner_form.png" alt="imagem de um formulario sendo preenchido com um lapis">
+        <img src="img/form/banner_form.png" alt="A imagem mostra um formulário sendo checado com a ajuda de um lápis">
         <article class="container" >
             <div class="row ">
                     <div class="col-sm-12">
