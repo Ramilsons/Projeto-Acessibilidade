@@ -67,6 +67,8 @@ body .dropdown-item.active, .dropdown-item:active{
 .copy-code button{
     background-color: rgb(222 222 222);
     border:  1px solid #000;
+    border-radius: 0 20px 0 0;
+    padding: 3px 13px;
 }
 
 .copy-code button img{
@@ -126,4 +128,14 @@ p{
 
 .copy-code{
     margin-bottom: 1rem;
+    border-radius: 20px;
+}
+
+.copy-code div{
+    padding: 1rem 2rem;
+    border-radius: 0 0 20px 20px;
+}
+
+.copy-code code{
+    color: #EC6F5B;
 }
