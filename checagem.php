@@ -49,15 +49,15 @@
                 <h3>confira se você já fez os seguintes passos:</h3>
                 <div class="box-selecionar">
                     <input type="checkbox" id="check1" name="check1">
-                    <label for="check1">Check 1</label>
+                    <label for="check1">Planejamento</label>
                 </div>
                 <div class="box-selecionar">
                     <input type="checkbox" id="check2" name="check2">
-                    <label for="check2">Check 2</label>
+                    <label for="check2">Descrição de Imagens</label>
                 </div>
                 <div class="box-selecionar">
                     <input type="checkbox" id="check3" name="check3">
-                    <label for="check3">Check 3</label>
+                    <label for="check3">Teste no NVDA</label>
                 </div>
             </div>
         </aside>
