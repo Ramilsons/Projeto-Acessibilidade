@@ -20,15 +20,15 @@
               <div class="container text-center">
                 <h2> Tabela Acessível</h2>
                 </div>
-                <div class="container text-center">
+        </section>
+        <article class="container">   
+        <div class="container text-center">
                 <div class="row mt-5 mb-5 " id="imgs_tabela">
                     <div class="col-12">
                         <img src="./img/tabela/tabela2.webp" class="img-fluid" alt="A imagem mostra uma tabela construída de forma acessível, com marcações que definem o título, cabeçalho e corpo da tabela. ">
                     </div>
                     </div>
                     </div>
-        </section>
-        <article class="container">   
             <section>
             <div class="container text-left" id="Texto tabela">
             <p class="p1">
