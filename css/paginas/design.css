@@ -1,149 +1,112 @@
-.titulo_forma
-{
+.titulo_forma {
     font-size: 2em !important;
     text-align: center !important;
     margin-top: 20px;
 }
 
-.subtitulo
-{
+.subtitulo {
     font-size: 1.6em;
     margin: 40px 0px 20px 0px;
 }
 
-.subtitulo2
-{
+.subtitulo2 {
     font-size: 1.6em;
     margin: 40px 0px 20px 15px;
 }
 
-#div-linha
-{
+#div-linha {
     border-right: 3px solid #000 !important;
 }
-#div-linha2
-{
+
+#div-linha2 {
     padding: 10px;
 }
 
-#img_design1
-{
+#img_design1 {
     display: block;
     margin: 20px auto 10px auto;
 }
 
-#img_design2
-{
+#img_design2 {
     display: block;
     margin: 20px auto 10px auto;
 }
 
-#img_design3
-{
+#img_design3 {
     display: block;
     margin: 100px auto 10px auto;
 }
 
-.titulo_conteudo2
-{
+.titulo_conteudo2 {
     margin-top: 50px;
 }
 
-.explicacao
-{
+.explicacao {
     background-color: #C4C4C4;
     padding: 20px;
     margin-right: 10px;
     margin-top: 90px;
 }
-.bloco_texto
-{
+
+.bloco_texto {
     margin-left: 15px;
     margin-bottom: 20px;
 }
-.explicacao2
-{
+
+.explicacao2 {
     background-color: #C4C4C4;
     padding: 10px;
     margin-left: 15px;
 }
-.div_imagem_forma 
-{
-   display: flex;
-   flex-direction: row;
-   justify-content: center;
+
+.div_imagem_forma {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
 
-.example
-{
+.example {
     text-align: center;
     margin-top: -40px;
 }
 
-.example2
-{
+.example2 {
     text-align: center;
     margin-top: 20px;
     color: #000;
-}
-
-.chroma
-{ 
-    color:#d73038;
 }
 
 .na {
     color: #006ee0 !important;
 }
 
-.text
-{
-    color: #000;
+.text {
+    color: #CC00FC;
 }
 
-.bibliografia_ajuste
-{
+.bibliografia_ajuste {
     margin-top: -10px;
 }
 
-
 @media screen and (max-width: 1100px) {
-    .bibliografia_ajuste
-    {
+    .bibliografia_ajuste {
         margin-top: 20px;
     }
-
-    #div-linha
-    {
+    #div-linha {
         border: none !important;
         border-bottom: 3px solid #000 !important;
     }
-
-    .explicacao2
-    {
+    .explicacao2 {
         margin-left: 0px;
     }
-
-    .explicacao
-    {
+    .explicacao {
         margin-left: 10px;
         margin-right: 0px;
     }
 }
 
 @media screen and (max-width: 500px) {
-
-    .bibliografia_ajuste
-    {
+    .bibliografia_ajuste {
         margin-top: 40px;
     }
-
 }
-
-
-
-
-
-
-
-

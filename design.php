@@ -42,61 +42,93 @@
 
                             <div class="bloco_texto">
                                 <h5 class="example">Ex: Contraste de cor</h5>
-                                <div class="explicacao2">
-                                    <pre class="chroma">
-<code class="language-html" data-lang="html"><span class="p">&lt;</span><span class="nt">div</span><span class="na"> class</span><span class="o">=</span><span class="s">"container"</span><span class="na"> style</span><span class="o">=</span><span class="s">"background-color: #0000ff;"</span><span class="p">&gt;</span>
-    <span class="p">&lt;</span><span class="nt">p</span><span class="na"> style</span><span class="o">=</span><span class="s">"color: #fff;"</span><span class="p">&gt;</span><span class="text"> Essas cores são lindas! </span><span class="p">&lt;/</span><span class="nt">p</span><span class="p">&gt;</span>
-<span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+
+                                <section class="copy-code">
+                                    <button class="d-block ms-auto" aria-label="Botão para copiar o código de exemplo">
+                                        <img src="./img/copy.png" alt="duas paginas, umas sobrepondo a outra" title="copiar código">
+                                    </button>
+                                    <div>
+                                        <pre>
+<code class="language-html" data-lang="html">
+    <span class="p">&lt;</span><span class="nt">div</span><span class="na"> class</span><span class="o">=</span><span class="s">"container"</span><span class="na"> style</span><span class="o">=</span><span class="s">"background-color: #0000ff;"</span><span class="p">&gt;</span>
+        <span class="p">&lt;</span><span class="nt">p</span><span class="na"> style</span><span class="o">=</span><span class="s">"color: #fff;"</span><span class="p">&gt;</span><span class="text"> Essas cores são lindas! </span><span class="p">&lt;/</span><span class="nt">p</span><span class="p">&gt;</span>
+    <span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
 </code>
                                     </pre>
-                                </div>
+                                    </div>
+                                </section>
 
                                 <h5 class="example2 ">Ex: Design Responsivo</h5>
-                                <div class="explicacao2">
-                                    <pre class="chroma"><code class="language-html" data-lang="html"><span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">"container"</span><span class="p">&gt;</span>
-  <span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">"row"</span><span class="p">&gt;</span>
-    <span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">"col"</span><span class="p">&gt;</span><span class="text"> col </span><span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
-    <span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">"col"</span><span class="p">&gt;</span><span class="text"> col </span><span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
-  <span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
-  <span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">"row"</span><span class="p">&gt;</span>
-    <span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">"col-8"</span><span class="p">&gt;</span><span class="text"> col-8 </span><span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
-    <span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">"col-4"</span><span class="p">&gt;</span><span class="text"> col-4 </span><span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
-  <span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
-<span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span></code></pre>
-                                </div>
+
+
+                                <section class="copy-code">
+                                    <button class="d-block ms-auto" aria-label="Botão para copiar o código de exemplo">
+                                        <img src="./img/copy.png" alt="duas paginas, umas sobrepondo a outra" title="copiar código">
+                                    </button>
+                                    <div>
+                                        <pre>
+                                    <code class="language-html" data-lang="html">
+    <span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">"container"</span><span class="p">&gt;</span>
+        <span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">"row"</span><span class="p">&gt;</span>
+            <span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">"col"</span><span class="p">&gt;</span><span class="text"> col </span><span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+            <span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">"col"</span><span class="p">&gt;</span><span class="text"> col </span><span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+        <span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+        <span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">"row"</span><span class="p">&gt;</span>
+            <span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">"col-8"</span><span class="p">&gt;</span><span class="text"> col-8 </span><span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+            <span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">"col-4"</span><span class="p">&gt;</span><span class="text"> col-4 </span><span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+        <span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+    <span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+                                    </code>
+                                    </pre>
+                                    </div>
+                                </section>
 
                                 <h5 class="example2 ">Ex: Tamanho das Fontes</h5>
 
-                                <div class="explicacao2">
-                                    <pre class="chroma"><code class="language-html" data-lang="html"><span class="p">&lt;</span><span class="nt">h1</span><span class="p">&gt;</span><span class="text"> h1. Cabeçalho Bootstrap  </span><span class="p">&lt;/</span><span class="nt">h1</span><span class="p">&gt;</span>
-<span class="p">&lt;</span><span class="nt">h2</span><span class="p">&gt;</span><span class="text"> h2. Cabeçalho Bootstrap  </span><span class="p">&lt;/</span><span class="nt">h2</span><span class="p">&gt;</span>
-<span class="p">&lt;</span><span class="nt">h3</span><span class="p">&gt;</span><span class="text"> h3. Cabeçalho Bootstrap  </span><span class="p">&lt;/</span><span class="nt">h3</span><span class="p">&gt;</span>
-<span class="p">&lt;</span><span class="nt">h4</span><span class="p">&gt;</span><span class="text"> h4. Cabeçalho Bootstrap  </span><span class="p">&lt;/</span><span class="nt">h4</span><span class="p">&gt;</span>
-<span class="p">&lt;</span><span class="nt">h5</span><span class="p">&gt;</span><span class="text"> h5. Cabeçalho Bootstrap  </span><span class="p">&lt;/</span><span class="nt">h5</span><span class="p">&gt;</span>
-<span class="p">&lt;</span><span class="nt">h6</span><span class="p">&gt;</span><span class="text"> h5. Cabeçalho Bootstrap  </span><span class="p">&lt;/</span><span class="nt">h6</span><span class="p">&gt;</span>
-</code></pre>
-                                </div>
+                                <section class="copy-code">
+                                    <button class="d-block ms-auto" aria-label="Botão para copiar o código de exemplo">
+                                        <img src="./img/copy.png" alt="duas paginas, umas sobrepondo a outra" title="copiar código">
+                                    </button>
+                                    <div>
+                                        <pre>
+                                        <code class="language-html" data-lang="html">
+        <span class="p">&lt;</span><span class="nt">h1</span><span class="p">&gt;</span><span class="text"> h1. Cabeçalho Bootstrap  </span><span class="p">&lt;/</span><span class="nt">h1</span><span class="p">&gt;</span>
+        <span class="p">&lt;</span><span class="nt">h2</span><span class="p">&gt;</span><span class="text"> h2. Cabeçalho Bootstrap  </span><span class="p">&lt;/</span><span class="nt">h2</span><span class="p">&gt;</span>
+        <span class="p">&lt;</span><span class="nt">h3</span><span class="p">&gt;</span><span class="text"> h3. Cabeçalho Bootstrap  </span><span class="p">&lt;/</span><span class="nt">h3</span><span class="p">&gt;</span>
+        <span class="p">&lt;</span><span class="nt">h4</span><span class="p">&gt;</span><span class="text"> h4. Cabeçalho Bootstrap  </span><span class="p">&lt;/</span><span class="nt">h4</span><span class="p">&gt;</span>
+        <span class="p">&lt;</span><span class="nt">h5</span><span class="p">&gt;</span><span class="text"> h5. Cabeçalho Bootstrap  </span><span class="p">&lt;/</span><span class="nt">h5</span><span class="p">&gt;</span>
+        <span class="p">&lt;</span><span class="nt">h6</span><span class="p">&gt;</span><span class="text"> h5. Cabeçalho Bootstrap  </span><span class="p">&lt;/</span><span class="nt">h6</span><span class="p">&gt;</span>
+</code>                          </pre>
+                                    </div>
+                                </section>
 
                                 <h5 class="example2">Ex: Alt, Tags e Label</h5>
-                                <div class="explicacao2">
-                                    <pre class="chroma" tabindex="-1"><code class="language-html" data-lang="html"><span class="p">&lt;</span><span class="nt">form</span><span class="p">&gt;</span>
-  <span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">"mb-3"</span><span class="p">&gt;</span>
-    <span class="p">&lt;</span><span class="nt">label</span> <span class="na">for</span><span class="o">=</span><span class="s">"exampleInputEmail1"</span> <span class="na">class</span><span class="o">=</span><span class="s">"form-label"</span><span class="p">&gt;</span><span class="text"> Email </span><span class="p">&lt;/</span><span class="nt">label</span><span class="p">&gt;</span>
-    <span class="p">&lt;</span><span class="nt">input</span> <span class="na">type</span><span class="o">=</span><span class="s">"email"</span> <span class="na">class</span><span class="o">=</span><span class="s">"form-control"</span> <span class="na">id</span><span class="o">=</span><span class="s">"exampleInputEmail1"</span> <span class="na">aria-describedby</span><span class="o">=</span><span class="s">"Campo de email"</span><span class="p">&gt;</span>
-    <span class="p">&lt;</span><span class="nt">div</span> <span class="na">id</span><span class="o">=</span><span class="s">"emailHelp"</span> <span class="na">class</span><span class="o">=</span><span class="s">"form-text"</span><span class="p">&gt;</span><span class="text"> Nós nunca iremos compartilhar seu email </span><span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
-  <span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
-  <span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">"mb-3"</span><span class="p">&gt;</span>
-    <span class="p">&lt;</span><span class="nt">label</span> <span class="na">for</span><span class="o">=</span><span class="s">"exampleInputPassword1"</span> <span class="na">class</span><span class="o">=</span><span class="s">"form-label"</span><span class="p">&gt;</span><span class="text"> Senha </span>span class="p">&lt;/</span><span class="nt">label</span><span class="p">&gt;</span>
-    <span class="p">&lt;</span><span class="nt">input</span> <span class="na">type</span><span class="o">=</span><span class="s">"password"</span> <span class="na">class</span><span class="o">=</span><span class="s">"form-control"</span> <span class="na">id</span><span class="o">=</span><span class="s">"exampleInputPassword1"</span><span class="p">&gt;</span>
-  <span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
-  <span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">"mb-3 form-check"</span><span class="p">&gt;</span>
-    <span class="p">&lt;</span><span class="nt">input</span> <span class="na">type</span><span class="o">=</span><span class="s">"checkbox"</span> <span class="na">class</span><span class="o">=</span><span class="s">"form-check-input"</span> <span class="na">id</span><span class="o">=</span><span class="s">"exampleCheck1"</span><span class="p">&gt;</span>
-    <span class="p">&lt;</span><span class="nt">label</span> <span class="na">class</span><span class="o">=</span><span class="s">"form-check-label"</span> <span class="na">for</span><span class="o">=</span><span class="s">"exampleCheck1"</span><span class="p">&gt;</span><span class="text">Clique para verificar</span><span class="p">&lt;/</span><span class="nt">label</span><span class="p">&gt;</span>
-  <span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
-  <span class="p">&lt;</span><span class="nt">button</span> <span class="na">type</span><span class="o">=</span><span class="s">"submit"</span> <span class="na">class</span><span class="o">=</span><span class="s">"btn btn-primary"</span><span class="p">&gt;</span><span class="text">Enviar</span><span class="p">&lt;/</span><span class="nt">button</span><span class="p">&gt;</span>
-<span class="p">&lt;/</span><span class="nt">form</span><span class="p">&gt;</span></code></pre>
-                                </div>
 
+                                <section class="copy-code">
+                                    <button class="d-block ms-auto" aria-label="Botão para copiar o código de exemplo">
+                                        <img src="./img/copy.png" alt="duas paginas, umas sobrepondo a outra" title="copiar código">
+                                    </button>
+                                    <div>
+                                        <pre tabindex="-1">
+                                        <code class="language-html" data-lang="html">
+    <span class="p">&lt;</span><span class="nt">form</span><span class="p">&gt;</span>
+        <span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">"mb-3"</span><span class="p">&gt;</span>
+            <span class="p">&lt;</span><span class="nt">label</span> <span class="na">for</span><span class="o">=</span><span class="s">"exampleInputEmail1"</span> <span class="na">class</span><span class="o">=</span><span class="s">"form-label"</span><span class="p">&gt;</span><span class="text"> Email </span><span class="p">&lt;/</span><span class="nt">label</span><span class="p">&gt;</span>
+            <span class="p">&lt;</span><span class="nt">input</span> <span class="na">type</span><span class="o">=</span><span class="s">"email"</span> <span class="na">class</span><span class="o">=</span><span class="s">"form-control"</span> <span class="na">id</span><span class="o">=</span><span class="s">"exampleInputEmail1"</span> <span class="na">aria-describedby</span><span class="o">=</span><span class="s">"Campo de email"</span><span class="p">&gt;</span>
+            <span class="p">&lt;</span><span class="nt">div</span> <span class="na">id</span><span class="o">=</span><span class="s">"emailHelp"</span> <span class="na">class</span><span class="o">=</span><span class="s">"form-text"</span><span class="p">&gt;</span><span class="text"> Nós nunca iremos compartilhar seu email </span><span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+         <span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+         <span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">"mb-3"</span><span class="p">&gt;</span>
+            <span class="p">&lt;</span><span class="nt">label</span> <span class="na">for</span><span class="o">=</span><span class="s">"exampleInputPassword1"</span> <span class="na">class</span><span class="o">=</span><span class="s">"form-label"</span><span class="p">&gt;</span><span class="text"> Senha </span>span class="p">&lt;/</span><span class="nt">label</span><span class="p">&gt;</span>
+            <span class="p">&lt;</span><span class="nt">input</span> <span class="na">type</span><span class="o">=</span><span class="s">"password"</span> <span class="na">class</span><span class="o">=</span><span class="s">"form-control"</span> <span class="na">id</span><span class="o">=</span><span class="s">"exampleInputPassword1"</span><span class="p">&gt;</span>
+        <span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+        <span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">"mb-3 form-check"</span><span class="p">&gt;</span>
+            <span class="p">&lt;</span><span class="nt">input</span> <span class="na">type</span><span class="o">=</span><span class="s">"checkbox"</span> <span class="na">class</span><span class="o">=</span><span class="s">"form-check-input"</span> <span class="na">id</span><span class="o">=</span><span class="s">"exampleCheck1"</span><span class="p">&gt;</span>
+            <span class="p">&lt;</span><span class="nt">label</span> <span class="na">class</span><span class="o">=</span><span class="s">"form-check-label"</span> <span class="na">for</span><span class="o">=</span><span class="s">"exampleCheck1"</span><span class="p">&gt;</span><span class="text">Clique para verificar</span><span class="p">&lt;/</span><span class="nt">label</span><span class="p">&gt;</span>
+        <span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+        <span class="p">&lt;</span><span class="nt">button</span> <span class="na">type</span><span class="o">=</span><span class="s">"submit"</span> <span class="na">class</span><span class="o">=</span><span class="s">"btn btn-primary"</span><span class="p">&gt;</span><span class="text">Enviar</span><span class="p">&lt;/</span><span class="nt">button</span><span class="p">&gt;</span>
+    <span class="p">&lt;/</span><span class="nt">form</span><span class="p">&gt;</span></code>                      </pre>
+                                    </div>
+                                </section>
 
                                 <img src="img/design/design4.jpg" alt="Imagem descreve duas pessoas realizando um teste, onde a pessoa da esquerda está realizando o teste facilmente e a da direita está com algumas dúvidas. Imagem retirada do site freepik.com" class="img-fluid" id="img_design2">
                             </div>
