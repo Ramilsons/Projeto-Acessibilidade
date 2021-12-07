@@ -14,13 +14,8 @@
         <article>
             <div class="container" id="principal">
                 <div class="row">
-<<<<<<< HEAD
-                    <div class="col-6">
-                        <img src="img/principais falhas/principais1.jpg" alt="A imagem mostra dois homens um em pé zombando do outro , que se encontra sentado, encolhido , com aparência de estar chateado" class="img-fluid">
-=======
                 <div class="col-12 col-md-12 col-lg-6 titulo">
                         <h1 id="principal">Principais Falhas</h1>
->>>>>>> 10a99bb1682b6503bbc1f6c4773a933e129848d9
                     </div>
                     <div class="col-12 col-md-12 col-lg-6">
                         <img src="img/principais falhas/principais1.jpg" alt="Imagem de um garoto debochando de outro garoto em um ambiente escolar. Imagem tirada do site freepik.com" class="img-fluid">

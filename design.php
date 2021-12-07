@@ -18,9 +18,6 @@
                         <div class="col-12 col-md-12 col-lg-6" id="div-linha">
                             <img src="img/design/design1.jpg" alt="Imagem descreve uma mulher trabalhando em um ambiente confortável. Imagem retirada do site freepik.com" class="img-fluid" id="img_design1">
 
-<<<<<<< HEAD
-                            <img src="img/design/design1.jpg" alt="A imagem mostra uma mulher mexendo em um computador vista a distância" class="img-fluid" id="img_design1">
-=======
                             <div class="bloco">
                                 <h5 class="titulo_conteudo">Contraste de cor acessível</h5>
                                 <p>Escolhendo a paleta de cores da sua página ou aplicação, faça testes relacionados à cor do texto versus cor de fundo da página, beneficiando pessoas com daltonismo</p>
@@ -31,26 +28,17 @@
                                 <h5 class="titulo_conteudo2">Alt, Tags e Labels</h5>
                                 <p>Adicionar tags assim como labels nos botões, é algo muito simples e que impacta positivamente as vidas de pessoas com baixa ou nenhuma visão. Essas configurações permitem que os leitores de tela descrevam aos usuários com deficiência tudo o que está em tela.</p>
                             </div>
->>>>>>> 10a99bb1682b6503bbc1f6c4773a933e129848d9
 
                             <div class="row explicacao">
                                 <p>Essas são regras que devem ser seguidas a risca, é muito importante prestar atenção nelas para projetar um site de forma acessível para todos os usuários da web. A W3C também é uma forma de consulta primordial quando mencionamos acessibilidade na web. </p>
                             </div>
 
-<<<<<<< HEAD
-                            <img src="img/design/design3.jpg" alt="A imagem mostra uma mulher mexendo em um computador vista de perto" class="img-fluid" id="img_design2">
-=======
                             <img src="img/design/design3.jpg" alt="Imagem descreve uma conversa amigável entre duas pessoas. Imagem retirada do site freepik.com" class="img-fluid" id="img_design3">
->>>>>>> 10a99bb1682b6503bbc1f6c4773a933e129848d9
                         </div>
 
                         <div class="col-12 col-md-12 col-lg-6" id="div-linha2">
 
-<<<<<<< HEAD
-                            <img src="img/design/design2.jpg" alt="A imagem mostra um homem e uma mulher conversando" class="img-fluid" id="img_design2">
-=======
                             <img src="img/design/design2.jpg" alt="Imagem descreve uma mulher trabalhando muito feliz ao lado de seu gato de estimação. Imagem retirada do site freepik.com" class="img-fluid" id="img_design2">
->>>>>>> 10a99bb1682b6503bbc1f6c4773a933e129848d9
 
                             <div class="bloco_texto">
                                 <h5 class="example">Ex: Contraste de cor</h5>
@@ -110,12 +98,8 @@
                                 </div>
 
 
-<<<<<<< HEAD
-                            <img src="img/design/design4.jpg" alt="A imagem mostra duas mulheres sentadas lado a lado, uma escrevendo em um caderno e outra olhando para o caderno e com uma expressão de dúvida" class="img-fluid" id="img_design2">
-=======
                                 <img src="img/design/design4.jpg" alt="Imagem descreve duas pessoas realizando um teste, onde a pessoa da esquerda está realizando o teste facilmente e a da direita está com algumas dúvidas. Imagem retirada do site freepik.com" class="img-fluid" id="img_design2">
                             </div>
->>>>>>> 10a99bb1682b6503bbc1f6c4773a933e129848d9
                         </div>
                     </div>
             </article>
