@@ -25,7 +25,7 @@
                                     <div class="card-body">
                                         <h5 class="card-title">Felipe</h5>
                                         <p class="card-text">RA:</p>
-                                        <p class="funcao">Função:Coringa</p>
+                                        <p class="funcao">Função:Coder</p>
                                     </div>
                                 </div>
                             </div>
