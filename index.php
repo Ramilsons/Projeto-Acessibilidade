@@ -39,6 +39,34 @@
 
         <section class="row grid-section" id="topicos">
             <div class="col-6 col-sm-4 col-lg-3 justify-content-center">
+<<<<<<< HEAD
+                <img src="./img/index/icon-design.png" alt="Link que encaminha para a página com o tema design">
+                <a href="design.php" title="Ir para a página de design">Design</a>
+            </div>
+            <div class="col-6 col-sm-4 col-lg-3 justify-content-center">
+                <img src="./img/index/icon-menu.svg" alt="Link que encaminha para a página com o tema menu">
+                <a href="menu.php" title="Ir para a página de Menu">Menu</a>
+            </div>
+            <div class="col-6 col-sm-4 col-lg-3 justify-content-center">
+                <img src="./img/index/check-icon.png" alt="Link que encaminha para a página com o tema checagem">
+                <a href="checagem.php" title="Ir para a página de Checagem">Checagem</a>
+            </div>
+            <div class="col-6 col-sm-4 col-lg-3 justify-content-center">
+                <img src="./img/index/icon-erro.png" alt="Link que encaminha para a página com o tema principáis falhas">
+                <a href="principais_falhas.php" title="Ir para a página de Principais Falhas">Principais falhas</a>
+            </div>
+            <div class="col-6 col-sm-4 col-lg-3 justify-content-center mx-auto">
+                <img src="./img/index/icon-form.png" alt="Link que encaminha para a página com o tema formulário">
+                <a href="formulario.php" title="Ir para a página de Formulários">Formulários</a>
+            </div>
+            <div class="col-6 col-sm-4 col-lg-3 justify-content-center mx-auto">
+                <img src="./img/index/icon-imagem.png" alt="Link que encaminha para a página com o tema images">
+                <a href="imagem.php" title="Ir para a página de imagens">Imagens</a>
+            </div>
+            <div class="col-6 col-sm-4 col-lg-3 justify-content-center mx-auto">
+                <img src="./img/index/icon-tabela.png" alt="Link que encaminha para a página com o tema tabela">
+                <a href="tabelas.php" title="Ir para a página de tabelas">Tabelas</a>
+=======
                 <div><img src="./img/index/icon-design.png" alt="um lápis e uma régua estão se cruzando">
                 <a href="design.php" title="Ir para a página de design">Design</a></div>
             </div>
@@ -65,6 +93,7 @@
             <div class="col-6 col-sm-4 col-lg-3 justify-content-center mx-auto">
                 <div><img src="./img/index/icon-tabela.png" alt="linhas e colunas representando uma tabela">
                 <a href="tabelas.php" title="Ir para a página de tabelas">Tabelas</a></div>
+>>>>>>> 10a99bb1682b6503bbc1f6c4773a933e129848d9
             </div>
         </section>
     </main>
