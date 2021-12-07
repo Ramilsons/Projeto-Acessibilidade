@@ -52,7 +52,7 @@
             atributo alt.</p>
           <section class="copy-code">
             <button class="d-block ms-auto" aria-label="Copiar código">
-              <img src="./img/copy.png" alt="Imagem com o código que descreve a imagem  do exemplo 1 de forma acessível." title="Código imagem exemplo 1">
+              <img src="./img/copy.png" alt="Imagem com o código que descreve uma imagem informativa , mostrando no alt a ação que a imagem orienta a fazer." title="Código imagem exemplo 1">
             </button>
             <div>
               <code>
@@ -73,7 +73,7 @@
             melhor descreve a impressão pretendida. </p>
           <section class="copy-code">
             <button class="d-block ms-auto" aria-label="Copiar código">
-              <img src="./img/copy.png" alt="Imagem com o código que descreve a imagem  do exemplo 2 de forma acessível." title="Código imagem exemplo 2">
+              <img src="./img/copy.png" alt="Imagem com o código que descreve uma imagem informativa , mostrando no alt a impressão pretendida." title="Código imagem exemplo 2">
             </button>
             <div>
               <code>
