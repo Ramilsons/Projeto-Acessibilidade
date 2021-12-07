@@ -4,31 +4,31 @@
 <head>
     <meta charset="UTF-8">
     <?php include './includes/bootstrap-css.php'; ?>
-    <link rel="stylesheet" href="./css/paginas/menu.css">
+    <link rel="stylesheet" href="./css/paginas/tabelas.css">
     <title>Tabelas | Seu site mais acessível</title>
 </head>
 
 <body>
     <?php include './includes/header.php'; ?>
-    <main class="container">
-        <section> 
-            <div class="jumbotron jumbotron-fluid">
-                <div class="container text-center">
-                  <h1 class="display-4" id="principal">Trabalhando com Tabelas </h1>
-                </div>
-              </div>  
-        </section>
-        <article>   
-        <section> 
+    <main >
+        <section class="abaixo-do-header">
+      <div class="jumbotron jumbotron-fluid">
         <div class="container text-center">
+          <h1 class="display-4" id="principal">Trabalhando com Tabelas</h1>
+          </div> 
+                </div> 
+              <div class="container text-center">
                 <h2> Tabela Acessível</h2>
                 </div>
+                <div class="container text-center">
                 <div class="row mt-5 mb-5 " id="imgs_tabela">
                     <div class="col-12">
                         <img src="./img/tabela/tabela2.webp" class="img-fluid" alt="A imagem mostra uma tabela construída de forma acessível, com marcações que definem o título, cabeçalho e corpo da tabela. ">
                     </div>
                     </div>
-            </section>
+                    </div>
+        </section>
+        <article class="container">   
             <section>
             <div class="container text-left" id="Texto tabela">
             <p class="p1">
@@ -45,11 +45,12 @@ Algumas pessoas usam formas alternativas de renderizar os dados, por exemplo, us
 A seguinte tabela de horários de abertura contém informações de cabeçalho na linha superior e na primeira coluna. Todas as células de cabeçalho são marcadas como th células com atributos de escopo adicionados.</p>
 <p class="p7">
 Na linha do cabeçalho, o valor col para o escopo associa cada célula do cabeçalho às células de dados na coluna. Na coluna do cabeçalho, o valor da linha associa os cabeçalhos individuais às suas linhas. Sem essas informações, alguns usuários não entenderiam facilmente a relação entre o cabeçalho e as células de dados. No exemplo abaixo, os rótulos “Aberto” e “Fechado” só são úteis se puderem ser atribuídos a um determinado dia e hora.</p>
-
+<div class="container text-center">
 <div class="row mt-5 mb-5" id="imgs_tabela"> 
 <div class="col-12">
                         <img src="./img/tabela/tabela01.webp" class="img-fluid" alt="A imagem mostra uma tabela construída de forma acessível, com marcações que definem o título, cabeçalho e corpo da tabela.">
                     </div>
+                     </div>
                     </div>
                     </section>
 <section class="copy-code">
@@ -90,7 +91,7 @@ Na linha do cabeçalho, o valor col para o escopo associa cada célula do cabeç
                 </div>
                 </section>
 </article>
-<aside>
+<aside class="container">
 <div class="row" id="Referência">
         <p class="p1">
         Referência Bibliográfica:
