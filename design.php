@@ -16,7 +16,7 @@
                     <h3 class="titulo_forma">Dicas de Design Acessivel</h3>
                     <div class="row mt-5 mb-5">
                         <div class="col-12 col-md-12 col-lg-6" id="div-linha">
-                            <img src="img/design/design1.jpg" alt="Imagem descreve uma mulher trabalhando em um ambiente confortável. Imagem retirada do site freepik.com" class="img-fluid" id="img_design1">
+                            <img src="img/design/design1.jpg" alt="A imagem mostra uma mulher mexendo em um computador vista à distância" class="img-fluid" id="img_design1">
 
                             <div class="bloco">
                                 <h5 class="titulo_conteudo">Contraste de cor acessível</h5>
@@ -33,19 +33,19 @@
                                 <p>Essas são regras que devem ser seguidas a risca, é muito importante prestar atenção nelas para projetar um site de forma acessível para todos os usuários da web. A W3C também é uma forma de consulta primordial quando mencionamos acessibilidade na web. </p>
                             </div>
 
-                            <img src="img/design/design3.jpg" alt="Imagem descreve uma conversa amigável entre duas pessoas. Imagem retirada do site freepik.com" class="img-fluid" id="img_design3">
+                            <img src="img/design/design3.jpg" alt="A imagem mostra um homem e uma mulher conversando" class="img-fluid" id="img_design3">
                         </div>
 
                         <div class="col-12 col-md-12 col-lg-6" id="div-linha2">
 
-                            <img src="img/design/design2.jpg" alt="Imagem descreve uma mulher trabalhando muito feliz ao lado de seu gato de estimação. Imagem retirada do site freepik.com" class="img-fluid" id="img_design2">
+                            <img src="img/design/design2.jpg" alt="A imagem mostra uma mulher mexendo em um computador vista de perto" class="img-fluid" id="img_design2">
 
                             <div class="bloco_texto">
                                 <h5 class="example">Ex: Contraste de cor</h5>
 
                                 <section class="copy-code">
                                     <button class="d-block ms-auto" aria-label="Botão para copiar o código de exemplo">
-                                        <img src="./img/copy.png" alt="duas paginas, umas sobrepondo a outra" title="copiar código">
+                                        <img src="./img/copy.png" alt="Exemplo de código para realizar contraste de cor." title="copiar código">
                                     </button>
                                     <div>
                                         <pre>
@@ -63,7 +63,7 @@
 
                                 <section class="copy-code">
                                     <button class="d-block ms-auto" aria-label="Botão para copiar o código de exemplo">
-                                        <img src="./img/copy.png" alt="duas paginas, umas sobrepondo a outra" title="copiar código">
+                                        <img src="./img/copy.png" alt="Exemplo de código para realizar um design responsivo." title="copiar código">
                                     </button>
                                     <div>
                                         <pre>
@@ -87,7 +87,7 @@
 
                                 <section class="copy-code">
                                     <button class="d-block ms-auto" aria-label="Botão para copiar o código de exemplo">
-                                        <img src="./img/copy.png" alt="duas paginas, umas sobrepondo a outra" title="copiar código">
+                                        <img src="./img/copy.png" alt="Exemplo de código para mexer no tamanho das fontes." title="copiar código">
                                     </button>
                                     <div>
                                         <pre>
@@ -106,7 +106,7 @@
 
                                 <section class="copy-code">
                                     <button class="d-block ms-auto" aria-label="Botão para copiar o código de exemplo">
-                                        <img src="./img/copy.png" alt="duas paginas, umas sobrepondo a outra" title="copiar código">
+                                        <img src="./img/copy.png" alt="Exemplo de código para utilizar as tags, label e alt." title="copiar código">
                                     </button>
                                     <div>
                                         <pre tabindex="-1">
@@ -130,7 +130,7 @@
                                     </div>
                                 </section>
 
-                                <img src="img/design/design4.jpg" alt="Imagem descreve duas pessoas realizando um teste, onde a pessoa da esquerda está realizando o teste facilmente e a da direita está com algumas dúvidas. Imagem retirada do site freepik.com" class="img-fluid" id="img_design2">
+                                <img src="img/design/design4.jpg" alt="A imagem mostra duas mulheres sentadas lado a lado, uma escrevendo em um caderno e outra olhando para o caderno com uma expressão de dúvida" class="img-fluid" id="img_design2">
                             </div>
                         </div>
                     </div>

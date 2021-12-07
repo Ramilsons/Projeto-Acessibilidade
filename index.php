@@ -20,7 +20,7 @@
                 </div>
             </div>
             <div class="col-12 col-sm-6">
-                <img  src="./img/index/banner-main.svg" class="img-fluid" alt="Dois personagens, um homem e outro mulher com camisas na cor amarela, perto de uma tela segurando ferramentas e montando um website">
+                <img  src="./img/index/banner-main.svg" class="img-fluid" alt="Dois personagens, um homem e outro uma mulher com camisas na cor amarela, perto de uma tela segurando ferramentas e montando um website">
             </div>
         </div>
     </section>
@@ -39,31 +39,31 @@
 
         <section class="row grid-section" id="topicos">
             <div class="col-6 col-sm-4 col-lg-3 justify-content-center">
-                <div><img src="./img/index/icon-design.png" alt="um lápis e uma régua estão se cruzando">
+                <div><img src="./img/index/icon-design.png" alt="Link que encaminha para a página com o tema design">
                 <a href="design.php" title="Ir para a página de design">Design</a></div>
             </div>
             <div class="col-6 col-sm-4 col-lg-3 justify-content-center">
-                <div><img src="./img/index/icon-menu.svg" alt="Três barras horizontais na cor azul, representando um menu">
+                <div><img src="./img/index/icon-menu.svg" alt="Link que encaminha para a página com o tema menu">
                 <a href="menu.php" title="Ir para a página de Menu">Menu</a></div>
             </div>
             <div class="col-6 col-sm-4 col-lg-3 justify-content-center">
-                <div><img src="./img/index/check-icon.png" alt="uma barra horizontal com um check ao lado, abaixo dela tem outra barra horrizontal também com um check ao lado e abaixo dessa tem uma barra horizontal com um x na cor vermelha">
+                <div><img src="./img/index/check-icon.png" alt="Link que encaminha para a página com o tema checagem">
                 <a href="checagem.php" title="Ir para a página de Checagem">Checagem</a></div>
             </div>
             <div class="col-6 col-sm-4 col-lg-3 justify-content-center">
-                <div><img src="./img/index/icon-erro.png" alt="">
+                <div><img src="./img/index/icon-erro.png" alt="Link que encaminha para a página com o tema principáis falhas">
                 <a href="principais_falhas.php" title="Ir para a página de Principais Falhas">Principais falhas</a></div>
             </div>
             <div class="col-6 col-sm-4 col-lg-3 justify-content-center mx-auto">
-                <div><img src="./img/index/icon-form.png" alt="Formulário com 2 campos de texto e um botão na cor azul">
+                <div><img src="./img/index/icon-form.png" alt="Link que encaminha para a página com o tema formulário">
                 <a href="formulario.php" title="Ir para a página de Formulários">Formulários</a></div>
             </div>
             <div class="col-6 col-sm-4 col-lg-3 justify-content-center mx-auto">
-                <div><img src="./img/index/icon-imagem.png" alt="um retangulo maior com um sol, nuvens e montanha dentro. Representando uma imagem">
+                <div><img src="./img/index/icon-imagem.png" alt="Link que encaminha para a página com o tema images">
                 <a href="imagem.php" title="Ir para a página de imagens">Imagens</a></div>
             </div>
             <div class="col-6 col-sm-4 col-lg-3 justify-content-center mx-auto">
-                <div><img src="./img/index/icon-tabela.png" alt="linhas e colunas representando uma tabela">
+                <div><img src="./img/index/icon-tabela.png" alt="Link que encaminha para a página com o tema tabela">
                 <a href="tabelas.php" title="Ir para a página de tabelas">Tabelas</a></div>
             </div>
         </section>

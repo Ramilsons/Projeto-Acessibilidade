@@ -9,11 +9,11 @@
 <body>
     <?php include './includes/header.php'; ?>
 
-    <img  class="banner" src="./img/menu/banner.svg" alt="">
+    <img  class="banner" src="./img/menu/banner.svg" alt="A imagem mostra uma mulher apontando para o menu de navegação de um site">
     <main class="position-relative">
         <section class="position-fixed topicos">
-                <button aria-label="Clique para fechar a navegação dos tópicos do artigos" id="btn-topicos">
-                    <img src="./img/menu/seta.png" alt="seta na cor branca">
+                <button aria-label="Clique para fechar ou expor a navegação dos tópicos do artigos" id="btn-topicos">
+                    <img src="./img/menu/seta.png" alt="Clique para fechar ou expor a navegação dos tópicos do artigos">
                 </button>
                 <div class="row active">
                     <h3 class="col-9">Tópicos</h3>
@@ -38,7 +38,7 @@
             <p>Para abranger os links das páginas, é interessante usar <strog><code>&lt;a&gt;</code></strong> ou <code>&lt;ol&gt;</code>. A tag <code>&lt;ul&gt;</code> deve ser usada quando a ordem dos links não tem importância, já o <code>&lt;ol&gt;</code> deve ser usado quando a ordem dos elementos tem importância.</p>
             <section  class="copy-code">
                 <button class="d-block ms-auto"aria-label="Copiar código">
-                    <img src="./img/copy.png" alt="duas paginas, umas sobrepondo a outra" title="copiar código">
+                    <img src="./img/copy.png" alt="A imagem mostra um exemplo de como usar a tag <a> ,<ol> e <ul>." title="copiar código">
                 </button>
                 <div>
                     <code>
@@ -54,7 +54,7 @@
             <p>É importante também, rotular essa tag com ajuda do aria-label, pois tornará mais fácil a compreensão dos usuários e até mesmo ferramentas que auxiliam pessoas com deficiências. Abaixo usamos ela:</p>
             <section  class="copy-code">
                 <button class="d-block ms-auto" aria-label="Copiar código">
-                    <img src="./img/copy.png" alt="duas paginas, umas sobrepondo a outra" title="copiar código">
+                    <img src="./img/copy.png" alt="A imagem mostra um exemplo de uso do aria-label para rotula-las." title="copiar código">
                 </button>
                 <div>
                     <code>
@@ -71,7 +71,7 @@
             <p>Por fim, deixe claro ao usuário em qual página ele está atualmente. Para isso, uma prática recomendada é o uso do atributo <strong>aria-current</strong> com o valor "page". Veja a demonstração a seguir:</p>
             <section class="copy-code">
                 <button class="d-block ms-auto" aria-label="Copiar código">
-                    <img src="./img/copy.png" alt="duas paginas, umas sobrepondo a outra" title="copiar código">
+                    <img src="./img/copy.png" alt="A imagem mostra um exemplo de uso das tags anteriores com atributo aria-current." title="copiar código">
                 </button>
                 <div>
                     <code>
@@ -88,7 +88,7 @@
             <p>Para isso, olhe o segundo exemplo, nesse além das cores é usado um sublinhado o que já ajudaria e muito os daltonicos. Perceba que é algo simples de ser implementado e que faz total diferença para esses usuários.</p>
             <section class="copy-code">
                 <button class="d-block ms-auto" aria-label="Copiar código">
-                    <img src="./img/copy.png" alt="duas paginas, umas sobrepondo a outra" title="copiar código">
+                    <img src="./img/copy.png" alt="A imagem mostra o uso do sublinhado no menu, na página ativa." title="copiar código">
                 </button>
                 <div>
                     <code>
@@ -100,9 +100,9 @@
             </section>
             <img src="./img/menu/im2.svg" alt="Três botões alinhados horizontalmente, onde o primeiro com o texto Início está com um sublinhado abaixo do texto, a cor do texto branca e o fundo azul. Os outros dois botões estão com a cor da fonte azul e o fundo branco">
             <p>O segundo ponto que queremos demonstrar, é o espaço de clique entre os botões. No primeiro exemplo, temos os itens com pouco espaço entre si e com uma área de clique muito pequena, dificultando o uso para aqueles que possuem alguma dificuldade no uso do mouse ou touch.</p>
-            <img src="./img/menu/im3.svg" alt="Três botões alinhados horizontalmente, onde o todos estão com a fonte na cor amarela e o fundo azul. O primeiro contém o texto Início, o segundo Notícias e o terceiro Blog">
+            <img src="./img/menu/im3.svg" alt="Três botões alinhados horizontalmente, onde o todos estão com a fonte na cor amarela e o fundo azul. O primeiro contém o texto Início, o segundo Notícias e o terceiro Blog com pouco espaço entre si e com uma área de clique muito pequena.">
             <p> No segundo exemplo colocamos a maneira que seria mais adequada, um espaço bom entre os elementos e uma área de clique maior:</p>
-            <img src="./img/menu/im4.svg" alt="Três botões alinhados horizontalmente, onde o todos estão com a fonte na cor amarela e o fundo azul. O primeiro contém o texto Início, o segundo Notícias e o terceiro Blog">
+            <img src="./img/menu/im4.svg" alt="Três botões alinhados horizontalmente, onde o todos estão com a fonte na cor amarela e o fundo azul. O primeiro contém o texto Início, o segundo Notícias e o terceiro Blog com um bom espaço entre os elementos e uma área de clique maior.">
 
         </article>
     </main>
