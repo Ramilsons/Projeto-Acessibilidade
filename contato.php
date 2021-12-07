@@ -18,10 +18,10 @@
                         <h2 id="principal">Quem somos</h2>
                         <div class="card mt-5" style="max-width: 450px;">
                             <div class="row g-0">
-                                <div class="col-md-4">
-                                    <img src="img/contato/felipe_profile.jpeg" class="img-fluid rounded-start" alt="...">
+                                <div class="col-4">
+                                    <img src="img/contato/felipe_profile.jpeg" class="img-fluid" alt="...">
                                 </div>
-                                <div class="col-md-8">
+                                <div class="col-8">
                                     <div class="card-body">
                                         <h5 class="card-title">Felipe</h5>
                                         <p class="card-text">RA:</p>
@@ -32,38 +32,38 @@
                         </div>
                         <div class="card mt-4" style="max-width: 450px;">
                             <div class="row g-0">
-                                <div class="col-md-4">
-                                    <img src="img/contato/ramilson_profile.png" class="img-fluid rounded-start" alt="...">
+                                <div class="col-4">
+                                    <img src="img/contato/ramilson_profile.png" class="img-fluid" alt="...">
                                 </div>
-                                <div class="col-md-8">
+                                <div class="col-8">
                                     <div class="card-body">
-                                        <h5 class="card-title">Ramilson</h5>
-                                        <p class="card-text">RA:</p>
-                                        <p class="funcao">Função:Designer</p>
+                                        <h5 class="card-title">Ramilson Felix da Silva</h5>
+                                        <p class="card-text">RA: 2650832023016</p>
+                                        <p class="funcao">Função: Coder/Designer</p>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="card mt-4" style="max-width: 450px;">
                             <div class="row g-0">
-                                <div class="col-md-4">
-                                    <img src="img/contato/tatiana_profile.png" class="img-fluid rounded-start" alt="...">
+                                <div class="col-4">
+                                    <img src="img/contato/tatiana_profile.png" class="img-fluid" alt="...">
                                 </div>
-                                <div class="col-md-8">
+                                <div class="col-8">
                                     <div class="card-body">
                                         <h5 class="card-title">Tatiana Nakata Mishima</h5>
                                         <p class="card-text">RA: 2650832023019</p>
-                                        <p class="funcao">Função:Gerente</p>
+                                        <p class="funcao">Função: Gerente</p>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="card mt-4" style="max-width: 450px;">
                             <div class="row g-0">
-                                <div class="col-md-4">
-                                    <img src="img/contato/vitor_profile.png" class="img-fluid rounded-start" alt="...">
+                                <div class="col-4">
+                                    <img src="img/contato/vitor_profile.png" class="img-fluid" alt="...">
                                 </div>
-                                <div class="col-md-8">
+                                <div class="col-8">
                                     <div class="card-body">
                                         <h5 class="card-title">Vitor Hugo Teixeira Oliveira</h5>
                                         <p class="">RA: 2650832023028</p>
@@ -86,8 +86,8 @@
                                 <input type="text" class="form-control" id="NomeUsuario" placeholder="Nome..." aria-describedby="campo de texto para inserir o nome">
                             </div>
                             <div class="mb-3">
-                                <label for="Sugestoes" class="form-label">Sugestão </label>
-                                <textarea class="form-control" name="sugestoes" placeholder="Sugestões..." rows="10" cols="50" id="Sugestoes" aria-describedby="campo de texto para inserir sua sugestão"></textarea>
+                                <label for="duvida" class="form-label">Dúvida</label>
+                                <textarea class="form-control" name="duvida" placeholder="Dúvida..." rows="10" cols="50" id="duvida" aria-describedby="campo de texto para inserir sua dúvida"></textarea>
                             </div>
                             <div class="btn_div">
                                 <button type="submit" class="btn btn-primary">Enviar</button>

@@ -122,7 +122,7 @@ footer p{
     transform:  scale(1.2);
 }
 
-p{
+p, li{
     color: #878a85;
 }
 

@@ -33,18 +33,16 @@
             <div class="container text-left" id="Texto tabela">
             <p class="p1">
             As tabelas de dados são usadas para organizar dados com um relacionamento lógico em grades. As tabelas acessíveis precisam de marcação HTML que indica células de cabeçalho e células de dados e define seu relacionamento. As tecnologias assistivas usam essas informações para fornecer contexto aos usuários.
+            <p>
+            As células de cabeçalho devem ser marcadas com th e as células de dados com td para tornar as tabelas acessíveis. Para tabelas mais complexas, associações explícitas podem ser necessárias usando atributos de escopo, id e cabeçalhos.</p>
+            <p>Por que isso é importante?</p>
+            <p>Tabelas sem marcação estrutural para diferenciar e vincular adequadamente entre o cabeçalho e as células de dados, criam barreiras de acessibilidade. Depender apenas de dicas visuais não é suficiente para criar uma mesa acessível. Com a marcação estrutural, cabeçalhos e células de dados podem ser determinados programaticamente por software, o que significa que: Pessoas que usam leitores de tela podem ter os cabeçalhos de linha e coluna lidos em voz alta enquanto navegam pela tabela. Os leitores de tela falam uma célula por vez e fazem referência às células de cabeçalho associadas, para que o leitor não perca o contexto.</p>
 
-As células de cabeçalho devem ser marcadas com th e as células de dados com td para tornar as tabelas acessíveis. Para tabelas mais complexas, associações explícitas podem ser necessárias usando atributos de escopo, id e cabeçalhos.</p>
-Por que isso é importante?
-Tabelas sem marcação estrutural para diferenciar e vincular adequadamente entre o cabeçalho e as células de dados, criam barreiras de acessibilidade. Depender apenas de dicas visuais não é suficiente para criar uma mesa acessível. Com a marcação estrutural, cabeçalhos e células de dados podem ser determinados programaticamente por software, o que significa que:
+<p>Algumas pessoas usam formas alternativas de renderizar os dados, por exemplo, usando folhas de estilo personalizadas para exibir células de cabeçalho com mais destaque. Técnicas como essa permitem que eles alterem o tamanho e as cores do texto e exibam as informações como listas em vez de grades. O código da tabela precisa ser estruturado adequadamente para permitir renderizações alternativas.
+<p>A seguinte tabela de horários de abertura contém informações de cabeçalho na linha superior e na primeira coluna. Todas as células de cabeçalho são marcadas como th células com atributos de escopo adicionados.</p>
 
-Pessoas que usam leitores de tela podem ter os cabeçalhos de linha e coluna lidos em voz alta enquanto navegam pela tabela. Os leitores de tela falam uma célula por vez e fazem referência às células de cabeçalho associadas, para que o leitor não perca o contexto.
+<p>Na linha do cabeçalho, o valor col para o escopo associa cada célula do cabeçalho às células de dados na coluna. Na coluna do cabeçalho, o valor da linha associa os cabeçalhos individuais às suas linhas. Sem essas informações, alguns usuários não entenderiam facilmente a relação entre o cabeçalho e as células de dados. No exemplo abaixo, os rótulos “Aberto” e “Fechado” só são úteis se puderem ser atribuídos a um determinado dia e hora.</p>
 
-Algumas pessoas usam formas alternativas de renderizar os dados, por exemplo, usando folhas de estilo personalizadas para exibir células de cabeçalho com mais destaque. Técnicas como essa permitem que eles alterem o tamanho e as cores do texto e exibam as informações como listas em vez de grades. O código da tabela precisa ser estruturado adequadamente para permitir renderizações alternativas.
-A seguinte tabela de horários de abertura contém informações de cabeçalho na linha superior e na primeira coluna. Todas as células de cabeçalho são marcadas como th células com atributos de escopo adicionados.
-
-Na linha do cabeçalho, o valor col para o escopo associa cada célula do cabeçalho às células de dados na coluna. Na coluna do cabeçalho, o valor da linha associa os cabeçalhos individuais às suas linhas. Sem essas informações, alguns usuários não entenderiam facilmente a relação entre o cabeçalho e as células de dados. No exemplo abaixo, os rótulos “Aberto” e “Fechado” só são úteis se puderem ser atribuídos a um determinado dia e hora.
-</p>
 <div class="row mt-5 mb-5" id="imgs_tabela"> 
 <div class="col-12">
                         <img src="./img/tabela/tabela01.webp" class="img-fluid" alt="tabela">

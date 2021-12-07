@@ -25,7 +25,6 @@ input, textarea
 
 textarea:focus, input:focus {
     box-shadow: 0 0 0 0 !important;
-    outline: 0 !important;
 }
 
 .btn_div
@@ -47,5 +46,24 @@ textarea:focus, input:focus {
 
 textarea:focus, input:focus, .btn:focus {
     box-shadow: 0 0 0 0 !important;
-    outline: 0 !important;
+}
+
+.card{
+    border-radius: 0px 20px 20px 0px;
+    border: none;
+}
+
+.card img{
+    height: 8rem;
+    border-radius: 50%;
+    width: 8rem;
+}
+
+.card-body{
+    height: 8rem;
+}
+
+.card-title{
+    font-size: 1.1rem;
+    font-weight: bold;
 }

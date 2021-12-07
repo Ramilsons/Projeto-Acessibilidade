@@ -24,7 +24,7 @@
 
 
                 <div class="row conteudo">
-                    <h2>1. Imagens acessíveis</h2>
+                    <h2>1. Imagens inacessíveis</h2>
                     <p>As imagens são acessadas por pessoas com deficiência visual (cegas ou de baixa visão) através de leitores de tela que identificam os textos alternativos e retornam o conteúdo em forma de áudio para o usuário. Se esses textos não existem ou estão incompreensíveis, o usuário pode não entender o contexto ou o significado daquela imagem.</p>
                 </div>
 
@@ -33,7 +33,7 @@
                 </div>
                 
                 <div class="row conteudo">
-                    <h2>2. Navegação por teclado</h2>
+                    <h2>2. Falhas na navegação por teclado</h2>
                     <p>A mais importante ferramenta para a navegação é permitir que o usuário consiga identificar onde está o foco da ação. Ao identificar o foco, ele consegue saber quais são os itens interativos da página e navegar normalmente. Se esse foco não está visível, o usuário se perde na navegação. O ideal é que o foco esteja visível não somente quando se passa o mouse, mas quando se faz o foco por teclado. </p>
                 </div>
 
@@ -42,7 +42,7 @@
                 </div>
 
                 <div class="row conteudo">
-                    <h2>3. Descrição de Links</h2>
+                    <h2>3. Falta de descrição nos links</h2>
                     <p>É possivel observar que boa parte dos links presentes em sites pelo nosso país contém uma descrição curta, sem nenhuma indicação de onde está enviando o usuário. O correto nessas situações é sempre optar por uma descrição mais completa mostrando ao usuário para onde ele será enviado ao clicar naquele link.</p>
                 </div>
 
@@ -51,7 +51,7 @@
                 </div>
 
                 <div class="row conteudo">
-                    <h2>4. Formulários</h2>
+                    <h2>4. Navegação nos formulários</h2>
                     <p>Os formulários são em sua essência formas de interagir e coletar informações do usuário. Eles obviamente devem ser acessíveis a qualquer pessoa que acesse sua aplicação, por isso deve se atentar as descrições dos campos do formulário e também o tipo de navegação que pode se utilizar para andar pelo campos do formulário. Muitas vezes os campos não possuem a descrição correta dificultando a compreensão de pessoas que possuem deficiência.</p>
                 </div>
 

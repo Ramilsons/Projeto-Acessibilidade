@@ -16,7 +16,6 @@ details{
 }
 
 details > summary {
-    outline: none;
     list-style-type: none;
     display: flex;
     justify-content: space-between;
