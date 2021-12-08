@@ -24,8 +24,13 @@
                                 <div class="col-8">
                                     <div class="card-body">
                                         <h5 class="card-title">Felipe</h5>
+<<<<<<< HEAD
                                         <p class="card-text">RA:2650831823016</p>
                                         <p class="funcao">Função: Coder</p>
+=======
+                                        <p class="card-text">RA:</p>
+                                        <p class="funcao">Função:Coder</p>
+>>>>>>> a705d4c8e1bb1cf13fe63b6cfc00861d20e13018
                                     </div>
                                 </div>
                             </div>
