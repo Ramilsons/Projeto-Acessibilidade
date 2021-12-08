@@ -42,21 +42,21 @@
             </section>
         </article>
         <aside class="position-fixed checklist active">
-            <button aria-label="Clique para expor ou fechar o checklist">
-                <img src="./img/menu/seta.png" alt="Seta para expor ou fechar o conteúdo">
+            <button aria-label="Clique para fechar o checklist">
+                <img src="./img/menu/seta.png" alt="Seta na cor branca">
             </button>
             <div class="conteudo">
                 <h3>confira se você já fez os seguintes passos:</h3>
                 <div class="box-selecionar">
-                    <input type="checkbox" id="check1" name="check1">
+                    <input type="checkbox" id="check1" name="check1"  aria-label="Planejamento. Use o espaço para interagir com a caixa de seleção">
                     <label for="check1">Planejamento</label>
                 </div>
                 <div class="box-selecionar">
-                    <input type="checkbox" id="check2" name="check2">
+                    <input type="checkbox" id="check2" name="check2"  aria-label="Descrição de Imagens. Use o espaço para interagir com a caixa de seleção">
                     <label for="check2">Descrição de Imagens</label>
                 </div>
                 <div class="box-selecionar">
-                    <input type="checkbox" id="check3" name="check3">
+                    <input type="checkbox" id="check3" name="check3" aria-label="Teste no NVDA. Use o espaço para interagir com a caixa de seleção">
                     <label for="check3">Teste no NVDA</label>
                 </div>
             </div>

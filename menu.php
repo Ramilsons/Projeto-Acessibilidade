@@ -12,16 +12,16 @@
     <img  class="banner" src="./img/menu/banner.svg" alt="A imagem mostra uma mulher apontando para o menu de navegação de um site">
     <main class="position-relative">
         <section class="position-fixed topicos">
-                <button aria-label="Clique para fechar ou expor a navegação dos tópicos do artigos" id="btn-topicos">
-                    <img src="./img/menu/seta.png" alt="Clique para fechar ou expor a navegação dos tópicos do artigos">
+                <button aria-label="Clique para fechar a navegação dos tópicos do artigo" id="btn-topicos">
+                    <img src="./img/menu/seta.png" alt="Seta na cor branca">
                 </button>
                 <div class="row active">
                     <h3 class="col-9">Tópicos</h3>
                     <nav>
                         <ul>
-                            <li><a href="#introducao">Introdução</a></li>
-                            <li><a href="#tags">Tags</a></li>
-                            <li><a href="#estilo">Estilo</a></li>
+                            <li><a href="#introducao" >Introdução</a></li>
+                            <li><a href="#tags" >Tags</a></li>
+                            <li><a href="#estilo" >Estilo</a></li>
                         </ul>
                     </nav>
                 </div>
