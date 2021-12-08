@@ -45,7 +45,7 @@
 
                                 <section class="copy-code">
                                     <button class="d-block ms-auto" aria-label="copiar o código de exemplo">
-                                        <img src="./img/copy.png" alt="Exemplo de código para realizar contraste de cor." title="copiar código">
+                                        <img src="./img/copy.png" alt="copiar código." title="copiar código">
                                     </button>
                                     <div>
                                         <pre>
@@ -63,7 +63,7 @@
 
                                 <section class="copy-code">
                                     <button class="d-block ms-auto" aria-label="copiar o código de exemplo">
-                                        <img src="./img/copy.png" alt="Exemplo de código para realizar um design responsivo." title="copiar código">
+                                        <img src="./img/copy.png" alt="copiar código." title="copiar código">
                                     </button>
                                     <div>
                                         <pre>
@@ -87,7 +87,7 @@
 
                                 <section class="copy-code">
                                     <button class="d-block ms-auto" aria-label="copiar o código de exemplo">
-                                        <img src="./img/copy.png" alt="Exemplo de código para mexer no tamanho das fontes." title="copiar código">
+                                        <img src="./img/copy.png" alt="copiar código." title="copiar código">
                                     </button>
                                     <div>
                                         <pre>
@@ -106,7 +106,7 @@
 
                                 <section class="copy-code">
                                     <button class="d-block ms-auto" aria-label="copiar o código de exemplo">
-                                        <img src="./img/copy.png" alt="Exemplo de código para utilizar as tags, label e alt." title="copiar código">
+                                        <img src="./img/copy.png" alt="copiar código." title="copiar código">
                                     </button>
                                     <div>
                                         <pre tabindex="-1">

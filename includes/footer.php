@@ -26,6 +26,6 @@
     </nav>
     <p class="text-center">Todos os direitos reservados ao grupo Sapitos Bailantes.</p>
     <button class="topo" aria-label="Voltar ao topo">
-        <img src="./img/ao-topo.png" alt="Seta na cor preta apontando para cima, simbolizando voltar ao topo da página">
+        <img src="./img/ao-topo.png" alt=" Voltar ao topo da página">
     </button>
 </footer>

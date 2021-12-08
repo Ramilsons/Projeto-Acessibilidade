@@ -55,7 +55,7 @@ Na linha do cabeçalho, o valor col para o escopo associa cada célula do cabeç
                     </section>
 <section class="copy-code">
                 <button class="d-block ms-auto" aria-label="Copiar código">
-                    <img src="./img/copy.png" alt=" um código de uma tabela construída de forma acessível, com o uso de tags como:caption , th e td ,que definem o título, cabeçalho e corpo da tabela." title="Tabela Acessível">
+                    <img src="./img/copy.png" alt=" Copiar código" title="Copiar código">
                 </button>
   <div>
   <code>   

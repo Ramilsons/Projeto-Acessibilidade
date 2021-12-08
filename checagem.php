@@ -43,7 +43,7 @@
         </article>
         <aside class="position-fixed checklist active">
             <button aria-label="Clique para fechar o checklist">
-                <img src="./img/menu/seta.png" alt="Seta na cor branca">
+                <img src="./img/menu/seta.png" alt="Clique para fechar ou abrir o checklist">
             </button>
             <div class="conteudo">
                 <h3>confira se você já fez os seguintes passos:</h3>

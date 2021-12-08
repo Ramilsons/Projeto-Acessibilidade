@@ -13,7 +13,7 @@
     <main class="position-relative">
         <section class="position-fixed topicos">
                 <button aria-label="Clique para fechar a navegação dos tópicos do artigo" id="btn-topicos">
-                    <img src="./img/menu/seta.png" alt="Seta na cor branca">
+                    <img src="./img/menu/seta.png" alt="Clique para fechar ou abrir o menu de tópicos da página">
                 </button>
                 <div class="row active">
                     <h3 class="col-9">Tópicos</h3>
@@ -38,7 +38,7 @@
             <p>Para abranger os links das páginas, é interessante usar <strog><code>&lt;a&gt;</code></strong> ou <code>&lt;ol&gt;</code>. A tag <code>&lt;ul&gt;</code> deve ser usada quando a ordem dos links não tem importância, já o <code>&lt;ol&gt;</code> deve ser usado quando a ordem dos elementos tem importância.</p>
             <section  class="copy-code">
                 <button class="d-block ms-auto"aria-label="Copiar código">
-                    <img src="./img/copy.png" alt=" um exemplo de como usar a tag a,o l e u l." title="copiar código">
+                    <img src="./img/copy.png" alt="Copiar código" title="copiar código">
                 </button>
                 <div>
                     <code>
@@ -54,7 +54,7 @@
             <p>É importante também, rotular essa tag com ajuda do aria-label, pois tornará mais fácil a compreensão dos usuários e até mesmo ferramentas que auxiliam pessoas com deficiências. Abaixo usamos ela:</p>
             <section  class="copy-code">
                 <button class="d-block ms-auto" aria-label="Copiar código">
-                    <img src="./img/copy.png" alt=" um exemplo de uso do aria-label para rotula-las." title="copiar código">
+                    <img src="./img/copy.png" alt=" Copiar código" title="copiar código">
                 </button>
                 <div>
                     <code>
@@ -71,7 +71,7 @@
             <p>Por fim, deixe claro ao usuário em qual página ele está atualmente. Para isso, uma prática recomendada é o uso do atributo <strong>aria-current</strong> com o valor "page". Veja a demonstração a seguir:</p>
             <section class="copy-code">
                 <button class="d-block ms-auto" aria-label="Copiar código">
-                    <img src="./img/copy.png" alt=" um exemplo de uso das tags anteriores com atributo aria-current." title="copiar código">
+                    <img src="./img/copy.png" alt=" Copiar código" title="copiar código">
                 </button>
                 <div>
                     <code>
@@ -88,7 +88,7 @@
             <p>Para isso, olhe o segundo exemplo, nesse além das cores é usado um sublinhado o que já ajudaria e muito os daltonicos. Perceba que é algo simples de ser implementado e que faz total diferença para esses usuários.</p>
             <section class="copy-code">
                 <button class="d-block ms-auto" aria-label="Copiar código">
-                    <img src="./img/copy.png" alt=" o uso do sublinhado no menu, na página ativa." title="copiar código">
+                    <img src="./img/copy.png" alt=" Copiar código" title="copiar código">
                 </button>
                 <div>
                     <code>

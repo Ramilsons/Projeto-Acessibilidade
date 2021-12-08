@@ -52,7 +52,7 @@
             atributo alt.</p>
           <section class="copy-code">
             <button class="d-block ms-auto" aria-label="Copiar código">
-              <img src="./img/copy.png" alt="Imagem com o código que descreve uma imagem informativa , mostrando no alt a ação que a imagem orienta a fazer." title="Código imagem exemplo 1">
+              <img src="./img/copy.png" alt="Copiar código" title="Copiar código">
             </button>
             <div>
               <code>
@@ -73,7 +73,7 @@
             melhor descreve a impressão pretendida. </p>
           <section class="copy-code">
             <button class="d-block ms-auto" aria-label="Copiar código">
-              <img src="./img/copy.png" alt="Imagem com o código que descreve uma imagem informativa , mostrando no alt a impressão pretendida." title="Código imagem exemplo 2">
+              <img src="./img/copy.png" alt="Copiar código." title="Copiar código">
             </button>
             <div>
               <code>
@@ -113,7 +113,7 @@
 
           <section class="copy-code">
             <button class="d-block ms-auto" aria-label="Copiar código">
-              <img src="./img/copy.png" alt="Imagem com o código de uma imagem decorativa , onde o alt fica sem descrição." title="Código de uma Imagem decorativa">
+              <img src="./img/copy.png" alt="Copiar código." title="Copiar código">
             </button>
             <div>
               <code>
@@ -137,7 +137,7 @@
           </div>
           <section class="copy-code">
             <button class="d-block ms-auto" aria-label="Copiar código">
-              <img src="./img/copy.png" alt="Imagem com o código de uma imagem funcional , onde no alt fica ação que será iniciada e não a descrição da imagem." title="Código de uma Imagem funconal">
+              <img src="./img/copy.png" alt="Copiar código." title="Copiar código">
             </button>
             <div>
               <code>
@@ -180,7 +180,7 @@
           </div>
           <section class="copy-code">
             <button class="d-block ms-auto" aria-label="Copiar código">
-              <img src="./img/copy.png" alt="Imagem com o código de uma imagem complexa, no caso um gráfico , onde no alt fica uma descrição curta com o título do gráfico e um resumo dos seus dados ." title="Código de uma Imagem complexa">
+              <img src="./img/copy.png" alt="Copiar código ." title="Copiar código">
             </button>
             <div>
               <code>
