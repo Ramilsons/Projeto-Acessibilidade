@@ -12,10 +12,10 @@
     <?php include './includes/header.php'; ?>
     <main>
         <article>
-            <div class="container" id="principal">
+            <div class="container">
                 <div class="row">
                 <div class="col-12 col-md-12 col-lg-6 titulo">
-                        <h1 id="principal">Principais Falhas</h1>
+                        <h1>Principais Falhas</h1>
                     </div>
                     <div class="col-12 col-md-12 col-lg-6">
                         <img src="img/principais falhas/principais1.jpg" alt=" dois homens um em pé zombando do outro , que se encontra sentado, encolhido , com aparência de estar chateado." class="img-fluid">
@@ -23,7 +23,7 @@
                 </div>
 
 
-                <div class="row conteudo">
+                <div class="row conteudo" id="principal">
                     <h2>1. Imagens inacessíveis</h2>
                     <p>As imagens são acessadas por pessoas com deficiência visual (cegas ou de baixa visão) através de leitores de tela que identificam os textos alternativos e retornam o conteúdo em forma de áudio para o usuário. Se esses textos não existem ou estão incompreensíveis, o usuário pode não entender o contexto ou o significado daquela imagem.</p>
                 </div>

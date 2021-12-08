@@ -12,13 +12,13 @@
     <main>
         <?php include './includes/header.php'; ?> <main>
             <article>
-                <div class="container" id="principal">
-                    <h3 class="titulo_forma">Dicas de Design Acessivel</h3>
+                <div class="container">
+                    <h1 class="titulo_forma">Dicas de Design Acessivel</h1>
                     <div class="row mt-5 mb-5">
                         <div class="col-12 col-md-12 col-lg-6" id="div-linha">
                             <img src="img/design/design1.jpg" alt=" uma mulher mexendo em um computador vista à distância" class="img-fluid" id="img_design1">
 
-                            <div class="bloco">
+                            <div class="bloco"  id="principal">
                                 <h5 class="titulo_conteudo">Contraste de cor acessível</h5>
                                 <p>Escolhendo a paleta de cores da sua página ou aplicação, faça testes relacionados à cor do texto versus cor de fundo da página, beneficiando pessoas com daltonismo</p>
                                 <h5 class="titulo_conteudo2">Design Responsivo</h5>
