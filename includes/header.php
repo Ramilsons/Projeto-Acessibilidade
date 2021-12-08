@@ -11,27 +11,27 @@
             <div class="collapse navbar-collapse justify-content-lg-center " id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item ps-lg-3">
-                        <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'index.php') ? "active" : ''; ?>" href="index.php">Home</a>
+                        <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'index.php') ? "active" : ''; ?>" aria-current<?php echo (basename($_SERVER['PHP_SELF']) == 'index.php') ? "=page" : ''; ?> href="index.php">Home</a>
                     </li>
                     <li class="nav-item ps-lg-3">
-                        <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'contato.php') ? "active" : ''; ?>" href="contato.php">Quem Somos</a>
+                        <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'contato.php') ? "active": ''; ?>" aria-current<?php echo (basename($_SERVER['PHP_SELF']) == 'contato.php') ? "=page" : ''; ?> href="contato.php" >Contato</a>
                     </li>
                     <li class="nav-item ps-lg-3">
-                        <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'design.php') ? "active" : ''; ?>" href="design.php">Design</a>
+                        <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'design.php') ? "active" : ''; ?>"  aria-current<?php echo (basename($_SERVER['PHP_SELF']) == 'design.php') ? "=page" : ''; ?> href="design.php">Design</a>
                     </li>
                     <li class="nav-item ps-lg-3">
-                        <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'checagem.php') ? "active" : ''; ?>" href="checagem.php">Checagem</a>
+                        <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'checagem.php') ? "active" : ''; ?>"  aria-current<?php echo (basename($_SERVER['PHP_SELF']) == 'checagem.php') ? "=page" : ''; ?> href="checagem.php">Checagem</a>
                     </li>
                     <li>
-                        <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'principais_falhas.php') ? "active" : ''; ?>" href="principais_falhas.php">Principais Falhas</a>
+                        <a class="nav-link <?php echo (basename($_SERVER['PHP_SELF']) == 'principais_falhas.php') ? "active" : ''; ?>"  aria-current<?php echo (basename($_SERVER['PHP_SELF']) == 'principais_falhas.php') ? "=page" : ''; ?> href="principais_falhas.php">Principais Falhas</a>
                     </li> 
                     <li class="nav-item dropdown ps-lg-3">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Componentes</a>
                     <ul class="dropdown-menu" id="dropdown" aria-labelledby="navbarScrollingDropdown">
-                            <li><a class="dropdown-item <?php echo (basename($_SERVER['PHP_SELF']) == 'formulario.php') ? "active" : ''; ?>" tabindex="0"  href="formulario.php">Formulário</a></li>
-                            <li><a class="dropdown-item <?php echo (basename($_SERVER['PHP_SELF']) == 'imagem.php') ? "active" : ''; ?>" tabindex="0" href="imagem.php">Imagem</a></li>    
-                            <li><a class="dropdown-item <?php echo (basename($_SERVER['PHP_SELF']) == 'tabelas.php') ? "active" : ''; ?>" tabindex="0" href="tabelas.php">Tabelas</a></li>
-                            <li><a class="dropdown-item <?php echo (basename($_SERVER['PHP_SELF']) == 'menu.php') ? "active" : ''; ?>" tabindex="0" href="menu.php">Menu</a></li>
+                            <li><a class="dropdown-item <?php echo (basename($_SERVER['PHP_SELF']) == 'formulario.php') ? "active" : ''; ?>"  aria-current<?php echo (basename($_SERVER['PHP_SELF']) == 'formulario.php') ? "=page" : ''; ?> tabindex="0"  href="formulario.php">Formulário</a></li>
+                            <li><a class="dropdown-item <?php echo (basename($_SERVER['PHP_SELF']) == 'imagem.php') ? "active" : ''; ?>"  aria-current<?php echo (basename($_SERVER['PHP_SELF']) == 'imagem.php') ? "=page" : ''; ?> tabindex="0" href="imagem.php">Imagem</a></li>    
+                            <li><a class="dropdown-item <?php echo (basename($_SERVER['PHP_SELF']) == 'tabelas.php') ? "active" : ''; ?>"  aria-current<?php echo (basename($_SERVER['PHP_SELF']) == 'tabelas.php') ? "=page" : ''; ?> tabindex="0" href="tabelas.php">Tabelas</a></li>
+                            <li><a class="dropdown-item <?php echo (basename($_SERVER['PHP_SELF']) == 'menu.php') ? "active" : ''; ?>"  aria-current<?php echo (basename($_SERVER['PHP_SELF']) == 'menu.php') ? "=page" : ''; ?> tabindex="0" href="menu.php">Menu</a></li>
                         </ul>
                     </li>
                 </ul>

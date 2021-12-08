@@ -4,6 +4,10 @@
     margin-top: 20px;
 }
 
+.row.explicacao p{
+    color: #000;
+}
+
 .subtitulo {
     font-size: 1.6em;
     margin: 40px 0px 20px 0px;

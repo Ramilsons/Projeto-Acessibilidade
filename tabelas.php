@@ -25,7 +25,7 @@
         <div class="container text-center">
                 <div class="row mt-5 mb-5 " id="imgs_tabela">
                     <div class="col-12">
-                        <img src="./img/tabela/tabela2.webp" class="img-fluid" alt="A imagem mostra uma tabela construída de forma acessível, com marcações que definem o título, cabeçalho e corpo da tabela. ">
+                        <img src="./img/tabela/tabela2.webp" class="img-fluid" alt=" uma tabela construída de forma acessível, com marcações que definem o título, cabeçalho e corpo da tabela. ">
                     </div>
                     </div>
                     </div>
@@ -48,45 +48,45 @@ Na linha do cabeçalho, o valor col para o escopo associa cada célula do cabeç
 <div class="container text-center">
 <div class="row mt-5 mb-5" id="imgs_tabela"> 
 <div class="col-12">
-                        <img src="./img/tabela/tabela01.webp" class="img-fluid" alt="A imagem mostra uma tabela construída de forma acessível, com marcações que definem o título, cabeçalho e corpo da tabela.">
+                        <img src="./img/tabela/tabela01.webp" class="img-fluid" alt=" uma tabela construída de forma acessível, com marcações que definem o título, cabeçalho e corpo da tabela.">
                     </div>
                      </div>
                     </div>
                     </section>
 <section class="copy-code">
                 <button class="d-block ms-auto" aria-label="Copiar código">
-                    <img src="./img/copy.png" alt="A imagem mostra um código de uma tabela construída de forma acessível, com o uso de tags como:caption , th e td ,que definem o título, cabeçalho e corpo da tabela." title="Tabela Acessível">
+                    <img src="./img/copy.png" alt=" um código de uma tabela construída de forma acessível, com o uso de tags como:caption , th e td ,que definem o título, cabeçalho e corpo da tabela." title="Tabela Acessível">
                 </button>
   <div>
   <code>   
-  &lt;table&gt;
-                    &lt;caption&gt; &lt;Delivery slots:&gt;&lt;/caption&gt;
-                    &lt;tr&gt;
-                    &lt;td&gt;/td&lt;
-                    &lt;th scope="col">Monday&gt;/th&lt;
-                    &lt;th scope="col">Tuesday&gt;/th&lt;
-                    &lt;th scope="col">Wednesday&gt;/th&lt;
-                    &lt;th scope="col">Thursday&gt;/th&lt;
-                    &lt;th scope="col">Friday&gt;/th&lt;
-                    &lt;/tr&gt;
-                    &lt;tr&gt;
-                    &lt;th scope="row"&gt;09:00 - 11:00&lt;&lt; &lt;/th&gt;
-                    &lt;td&gt; &lt;Closed&gt;/td&lt;
-                    &lt;td&gt; &lt;Open&gt;/td&lt;
-                    &lt;td&gt; &lt;Open&gt;/td&lt;
-                    &lt;td&gt; &lt;Closed&gt;/td&lt;
-                    &lt;td&gt; &lt;Closed&gt;/td&lt;
-                    &lt;/tr&gt;
-                    &lt;tr&gt;
-                    &lt;th scope="row"&gt;11:00 - 13:00&lt;
-                    &lt;td&gt; &lt;Open&gt;/td&lt;
-                    &lt;td&gt; &lt;Open&gt;/td&lt;
-                    &lt;td&gt; &lt;Closed&gt;/td&lt;
-                    &lt;td&gt; &lt;Closed&gt;/td&lt;
-                    &lt;td&gt; &lt;Closed&gt;/td&lt;
-                    &lt;/tr&gt;
-                    […]
-                    &lt;/table&gt;
+        &lt;table&gt;
+        &lt;caption&gt;Delivery slots:&lt;/caption&gt;
+        &lt;tr&gt;
+            &lt;td&gt;&lt;/td&gt;
+            &lt;th scope="col"&gt;Monday&lt;/th&gt;
+            &lt;th scope="col"&gt;Tuesday&lt;/th&gt;
+            &lt;th scope="col"&gt;Wednesday&lt;/th&gt;
+            &lt;th scope="col"&gt;Thursday&lt;/th&gt;
+            &lt;th scope="col"&gt;Friday&lt;/th&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;th scope="row"&gt;09:00 - 11:00&lt;/th&gt;
+            &lt;td&gt;Closed&lt;/td&gt;
+            &lt;td&gt;Open&lt;/td&gt;
+            &lt;td&gt;Open&lt;/td&gt;
+            &lt;td&gt;Closed&lt;/td&gt;
+            &lt;td&gt;Closed&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;th scope="row"&gt;11:00 - 13:00&lt;/th&gt;
+            &lt;td&gt;Open&lt;/td&gt;
+            &lt;td&gt;Open&lt;/td&gt;
+            &lt;td&gt;Closed&lt;/td&gt;
+            &lt;td&gt;Closed&lt;/td&gt;
+            &lt;td&gt;Closed&lt;/td&gt;
+        &lt;/tr&gt;
+        […]
+        &lt;/table&gt;
             </code>
                 </div>
                 </section>

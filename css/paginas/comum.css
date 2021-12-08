@@ -124,7 +124,7 @@ footer p{
 
 p, li
 {
-    color: #878a85;
+    color: #565656;
 }
 
 .copy-code{
@@ -138,5 +138,5 @@ p, li
 }
 
 .copy-code code{
-    color: #EC6F5B;
+    color: #fcc2b8;
 }
