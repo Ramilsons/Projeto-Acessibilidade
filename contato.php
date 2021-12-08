@@ -23,7 +23,7 @@
                                 </div>
                                 <div class="col-8">
                                     <div class="card-body">
-                                        <h5 class="card-title">Felipe</h5>
+                                        <h5 class="card-title">Felipe Góes dos Santos</h5>
                                         <p class="card-text">RA:2650831823016</p>
                                         <p class="funcao">Função: Coder</p>
                                     </div>
