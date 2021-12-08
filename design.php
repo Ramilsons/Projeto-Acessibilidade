@@ -142,6 +142,7 @@
                     <h3>Bibliografia</h3>
                     <p>Exemplos de código baseados na documentação do Bootstrap. <a tabindex="0" href="https://getbootstrap.com/docs/5.0/getting-started/introduction/">Clique aqui para acessar a documentação do Bootstrap</a></p>
                     <p class="bibliografia_ajuste">Textos baaseados no artigo publicado no site Inovação Digital <a href="https://inovacaodigital.blog/design-acessivel/">Clique aqui para acessar o artigo mencionado</a></p>
+                    <p class="bibliografia_ajuste">Imagens retiradas do site freepik <a href="https://br.freepik.com/home">Clique aqui para acessar o site freepik</a></p>
                 </div>
             </div>
         </section>

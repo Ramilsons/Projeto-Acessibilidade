@@ -62,6 +62,16 @@
         </article>
     </main>
 
+    <section>
+            <div class="container">
+                <div class="row">
+                    <h3>Bibliografia</h3>
+                    <p>Textos baaseados nos artigos publicados no site Acessibilidade Legal <a href="http://www.acessibilidadelegal.com">Clique aqui para acessar o site mencionado</a></p>
+                    <p class="bibliografia_ajuste">Imagens retiradas do site freepik <a href="https://br.freepik.com/home">Clique aqui para acessar o site freepik</a></p>
+                </div>
+            </div>
+        </section>
+
     <?php include './includes/footer.php'; ?>
 </body>
 

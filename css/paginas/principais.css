@@ -3,69 +3,64 @@
     margin-left: -150px;
 } */
 
-
-body
-{
+body {
     margin: 0px;
     padding: 0px;
     overflow-x: hidden;
     overflow-y: scroll;
 }
-.titulo
-{
+
+.titulo {
     margin-top: 200px;
 }
 
-.conteudo
-{
+.conteudo {
     width: 800px;
     margin: 20px auto 40px auto;
 }
 
-.linha
-{
+.linha {
     width: 500px;
     margin: 0px auto 0px auto;
 }
 
-hr 
-{ 
-    background-color: black; 
-    border: 0; 
+hr {
+    background-color: black;
+    border: 0;
     width: 200px;
 }
 
+.bibliografia_ajuste {
+    margin-top: -10px;
+}
+
 @media screen and (max-width: 950px) {
-.conteudo
-{
-    width: 100%;
-    margin: 20px auto 40px auto;
-}
-
-.linha
-{
-    width: 350px;
-    margin: 0px auto 0px auto;
-}
-
-.titulo
-{
-    margin-top: 150px;
-}
-
-    
+    .conteudo {
+        width: 100%;
+        margin: 20px auto 40px auto;
+    }
+    .linha {
+        width: 350px;
+        margin: 0px auto 0px auto;
+    }
+    .titulo {
+        margin-top: 150px;
+    }
 }
 
 @media screen and (max-width: 990px) {
-    .titulo
-    {
+    .titulo {
         text-align: center !important;
         margin-top: 40px;
     }
-
-    .linha
-    {
+    .linha {
         width: 300px;
         margin: 0px auto 0px auto;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .bibliografia_ajuste {
+        margin-top: 40px;
     }
 }
