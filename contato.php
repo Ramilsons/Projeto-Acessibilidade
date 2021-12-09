@@ -19,7 +19,7 @@
                         <div class="card mt-5" style="max-width: 450px;">
                             <div class="row g-0">
                                 <div class="col-4">
-                                    <img src="img/contato/felipe_profile.jpeg" class="img-fluid" alt=" o desenvolvedor do site, chamado Felipe.">
+                                    <img src="img/contato/felipe_profile.jpeg" class="img-fluid" alt=" A imagem mostra Felipe um dos desenvolvedores do site.">
                                 </div>
                                 <div class="col-8">
                                     <div class="card-body">
@@ -33,7 +33,7 @@
                         <div class="card mt-4" style="max-width: 450px;">
                             <div class="row g-0">
                                 <div class="col-4">
-                                    <img src="img/contato/ramilson_profile.png" class="img-fluid" alt=" o desenvolvedor do site, chamado Ramilson.">
+                                    <img src="img/contato/ramilson_profile.png" class="img-fluid" alt=" A imagem mostra Ramilson um dos desenvolvedores do site.">
                                 </div>
                                 <div class="col-8">
                                     <div class="card-body">
@@ -47,7 +47,7 @@
                         <div class="card mt-4" style="max-width: 450px;">
                             <div class="row g-0">
                                 <div class="col-4">
-                                    <img src="img/contato/tatiana_profile.png" class="img-fluid" alt=" o desenvolvedor do site, chamado Tatiana.">
+                                    <img src="img/contato/tatiana_profile.png" class="img-fluid" alt=" A imagem mostra Tatiana um dos desenvolvedores do site.">
                                 </div>
                                 <div class="col-8">
                                     <div class="card-body">
@@ -61,7 +61,7 @@
                         <div class="card mt-4" style="max-width: 450px;">
                             <div class="row g-0">
                                 <div class="col-4">
-                                    <img src="img/contato/vitor_profile.png" class="img-fluid" alt=" o desenvolvedor do site, chamado Vitor.">
+                                    <img src="img/contato/vitor_profile.png" class="img-fluid" alt=" A imagem mostra Vitor um dos desenvolvedores do site">
                                 </div>
                                 <div class="col-8">
                                     <div class="card-body">
