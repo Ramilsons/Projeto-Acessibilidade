@@ -9,7 +9,7 @@
 <body>
     <?php include './includes/header.php'; ?>
 
-    <img  class="banner" src="./img/menu/banner.svg" alt="  A imagem mostra uma mulher apontando para o menu de navegação de um site">
+    <img  class="banner" src="./img/menu/banner.svg" alt="  Mulher apontando para o menu de navegação de um site">
     <main class="position-relative">
         <section class="position-fixed topicos">
                 <button aria-label="Clique para fechar a navegação dos tópicos do artigo" id="btn-topicos">
