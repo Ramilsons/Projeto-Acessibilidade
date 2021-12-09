@@ -25,7 +25,7 @@
         <div class="container text-center">
                 <div class="row mt-5 mb-5 " id="imgs_tabela">
                     <div class="col-12">
-                        <img src="./img/tabela/tabela2.webp" class="img-fluid" alt=" uma tabela construída de forma acessível, com marcações que definem o título, cabeçalho e corpo da tabela. ">
+                        <img src="./img/tabela/tabela2.webp" class="img-fluid" alt="  A imagem mostra uma tabela construída de forma acessível, com marcações que definem o título, cabeçalho e corpo da tabela. ">
                     </div>
                     </div>
                     </div>
@@ -48,7 +48,7 @@ Na linha do cabeçalho, o valor col para o escopo associa cada célula do cabeç
 <div class="container text-center">
 <div class="row mt-5 mb-5" id="imgs_tabela"> 
 <div class="col-12">
-                        <img src="./img/tabela/tabela01.webp" class="img-fluid" alt=" uma tabela construída de forma acessível, com marcações que definem o título, cabeçalho e corpo da tabela.">
+                        <img src="./img/tabela/tabela01.webp" class="img-fluid" alt="  A imagem mostra uma tabela construída de forma acessível, com marcações que definem o título, cabeçalho e corpo da tabela.">
                     </div>
                      </div>
                     </div>

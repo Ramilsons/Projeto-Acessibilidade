@@ -20,7 +20,7 @@
                 </div>
             </div>
             <div class="col-12 col-sm-6">
-                <img  src="./img/index/banner-main.svg" class="img-fluid" alt="Dois personagens, um homem e outro uma mulher com camisas na cor amarela, perto de uma tela segurando ferramentas e montando um website">
+                <img  src="./img/index/banner-main.svg" class="img-fluid" alt=" A imagem mostra dois personagens, um homem e outro uma mulher com camisas na cor amarela, perto de uma tela segurando ferramentas e montando um website">
             </div>
         </div>
     </section>

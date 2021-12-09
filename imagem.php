@@ -43,7 +43,7 @@
           <div class="row mt-5 mb-5" id="img01">
             <div class="col-12">
               <img src="./img/imagem/tampa.webp" class="img-fluid"
-                alt="Empurre a tampa para baixo e gire no sentido anti-horário (da direita para a esquerda)" />
+                alt=" A imagem dá a seguinte instrução: empurre a tampa para baixo e gire no sentido anti-horário (da direita para a esquerda)" />
             </div>
           </div>
           <p> Este diagrama simples ilustra uma direção anti-horária para desparafusar a tampa ou tampa de uma
@@ -65,7 +65,7 @@
 
           <div class="row mt-5 mb-5" id="img02">
             <div class="col-12">
-              <img src="./img/imagem/familia.webp" class="img-fluid" alt="Somos amigos da família" />
+              <img src="./img/imagem/familia.webp" class="img-fluid" alt=" A imagem passa a seguinte mensagem:Somos amigos da família" />
             </div>
           </div>
           <p>Esta fotografia mostra um grupo familiar feliz. Ele está sendo usado para dar a impressão de que o site

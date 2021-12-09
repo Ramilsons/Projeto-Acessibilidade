@@ -18,7 +18,7 @@
                         <h1>Principais Falhas</h1>
                     </div>
                     <div class="col-12 col-md-12 col-lg-6">
-                        <img src="img/principais falhas/principais1.jpg" alt=" dois homens um em pé zombando do outro , que se encontra sentado, encolhido , com aparência de estar chateado." class="img-fluid">
+                        <img src="img/principais falhas/principais1.jpg" alt=" A imagem mostra dois homens um em pé zombando do outro , que se encontra sentado, encolhido , com aparência de estar chateado." class="img-fluid">
                     </div>
                 </div>
 
